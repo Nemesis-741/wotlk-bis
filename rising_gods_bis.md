@@ -58,7 +58,7 @@ Rising-Gods BiS List (WIP)
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Winding Sheet||
 |Chest|T10 Chest|Vendor|
-|Wrist|Polar Bear Claw Bracers||
+|Wrist|[Polar Bear Claw Bracers](https://db.rising-gods.de/?item=50659||
 |Hands|Fleshrending Gauntlets||
 |Waist|Coldwraith Links||
 |Legs|T10 Legs|Vendor|
@@ -103,7 +103,7 @@ Rising-Gods BiS List (WIP)
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Winding Sheet||
 |Chest|T10 Chest|Vendor|
-|Wrist|Polar Bear Claw Bracers||
+|Wrist|[Polar Bear Claw Bracers](https://db.rising-gods.de/?item=50659||
 |Hands|Fleshrending Gauntlets||
 |Waist|Coldwraith Links||
 |Legs|T10 Legs|Vendor|
