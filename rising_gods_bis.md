@@ -9,11 +9,11 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Head|T10 Head|Vendor|
-|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)||
+|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)|Gunship Battle|
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Winding Sheet||
 |Chest|T10 Chest|Vendor|
-|Wrist|Umbrage Armbands||
+|Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion|
 |Hands|T10 Hands|Vendor|
 |Waist|Coldwraith Links||
 |Legs|T10 Legs|Vendor|
@@ -32,7 +32,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Head|T10 Head|Vendor|
-|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)||
+|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)|Gunship Battle|
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Garrosh"s Rage||
 |Chest|T10 Chest|Vendor|
@@ -54,7 +54,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Head|T10 Head|Vendor|
-|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)||
+|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)|Gunship Battle|
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Winding Sheet||
 |Chest|T10 Chest|Vendor|
@@ -76,11 +76,11 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Head|T10 Head|Vendor|
-|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)||
+|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)|Gunship Battle|
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Winding Sheet||
 |Chest|T10 Chest|Vendor|
-|Wrist|Umbrage Armbands||
+|Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion|
 |Hands|T10 Hands|Vendor|
 |Waist|Coldwraith Links||
 |Legs|Scourge Reaver"s Legplates||
@@ -169,7 +169,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Head|T10 Head|Vendor|
-|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)||
+|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)|Gunship Battle|
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Sylvana"s Cunning||
 |Chest|T10 Chest|Vendor|
@@ -195,7 +195,7 @@ Rising-Gods BiS List (WIP)
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Shadowvault Slayer"s Cloak||
 |Chest|T10 Chest|Vendor|
-|Wrist|Umbrage Armbands||
+|Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion|
 |Hands|Aldriana"s Gloves of Secrecy||
 |Waist|Astrylian"s Sutured Cinch||
 |Legs|T10 Legs|Vendor|
@@ -217,7 +217,7 @@ Rising-Gods BiS List (WIP)
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Sentinel"s Winter Cloak||
 |Chest|Ikfirus"s Sack of Wonder||
-|Wrist|Umbrage Armbands||
+|Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion|
 |Hands|T10 Hands|Vendor|
 |Waist|Astrylian"s Sutured Cinch||
 |Legs|T10 Legs|Vendor|
@@ -384,11 +384,11 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Head|T10 Head|Vendor|
-|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)||
+|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)|Gunship Battle|
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Shadowvault Slayer"s Cloak||
 |Chest|T10 Chest|Vendor|
-|Wrist|Umbrage Armbands||
+|Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion|
 |Hands|Anub"ar Stalker"s Gloves||
 |Waist|Astrylian"s Sutured Cinch||
 |Legs|T10 Legs|Vendor|
@@ -408,11 +408,11 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Head|T10 Head|Vendor|
-|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)||
+|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)|Gunship Battle|
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Winding Sheet||
 |Chest|T10 Chest|Vendor|
-|Wrist|Umbrage Armbands||
+|Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion|
 |Hands|Fleshrending Gauntlets||
 |Waist|Coldwraith Links||
 |Legs|T10 Legs|Vendor|
@@ -623,7 +623,7 @@ Rising-Gods BiS List (WIP)
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Sylvana"s Cunning||
 |Chest|Ikfirus"s Sack of Wonder||
-|Wrist|Umbrage Armbands||
+|Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion|
 |Wrist (Alt)|Toskk"s Maximized Wristguards||
 |Hands|Aldriana"s Gloves of Secrecy||
 |Waist|Astrylian"s Sutured Cinch||
@@ -646,7 +646,7 @@ Rising-Gods BiS List (WIP)
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Sylvana"s Cunning||
 |Chest|T10 Chest|Vendor|
-|Wrist|Umbrage Armbands||
+|Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion|
 |Wrist (Alt)|Toskk"s Maximized Wristguards||
 |Hands|Aldriana"s Gloves of Secrecy||
 |Waist|Astrylian"s Sutured Cinch||
@@ -669,7 +669,7 @@ Rising-Gods BiS List (WIP)
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Shadowvault Slayer"s Cloak||
 |Chest|Ikfirus"s Sack of Wonder||
-|Wrist|Umbrage Armbands||
+|Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion|
 |Hands|T10 Hands|Vendor|
 |Waist|Astrylian"s Sutured Cinch||
 |Legs|T10 Legs|Vendor|
@@ -785,7 +785,7 @@ Rising-Gods BiS List (WIP)
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Shadowvault Slayer"s Cloak||
 |Chest|T10 Chest|Vendor|
-|Wrist|Umbrage Armbands||
+|Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion|
 |Hands|Anub"ar Stalker"s Gloves||
 |Waist|Nerub"ar Stalker"s Cord||
 |Legs|T10 Legs|Vendor|
@@ -873,11 +873,11 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Head|T10 Head|Vendor|
-|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)||
+|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)|Gunship Battle|
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Sylvana"s Cunning||
 |Chest|T10 Chest|Vendor|
-|Wrist|Umbrage Armbands||
+|Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion|
 |Wrist (Alt)|Toskk"s Maximized Wristguards||
 |Hands|Aldriana"s Gloves of Secrecy||
 |Waist|Coldwraith Links||
@@ -896,11 +896,11 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Head|T10 Head|Vendor|
-|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)||
+|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)|Gunship Battle|
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Sylvana"s Cunning||
 |Chest|T10 Chest|Vendor|
-|Wrist|Umbrage Armbands||
+|Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion|
 |Wrist (Alt)|Toskk"s Maximized Wristguards||
 |Hands|T10 Hands|Vendor|
 |Waist|Coldwraith Links||
