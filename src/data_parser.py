@@ -35,7 +35,7 @@ def parse_data(in_path, out_path):
             ### create specc table
 
             #### use standard table header
-            table_list = table_header
+            table_list = table_header.copy()
 
             #### loop over all items
             for item_key, item_value in specc_value.items():
