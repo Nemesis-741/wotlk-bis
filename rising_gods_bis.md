@@ -9,7 +9,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Head|T10 Head|Vendor|
-|Neck|Penumbra Pendant||
+|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)||
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Winding Sheet||
 |Chest|T10 Chest|Vendor|
@@ -32,7 +32,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Head|T10 Head|Vendor|
-|Neck|Penumbra Pendant||
+|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)||
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Garrosh"s Rage||
 |Chest|T10 Chest|Vendor|
@@ -54,7 +54,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Head|T10 Head|Vendor|
-|Neck|Penumbra Pendant||
+|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)||
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Winding Sheet||
 |Chest|T10 Chest|Vendor|
@@ -76,7 +76,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Head|T10 Head|Vendor|
-|Neck|Penumbra Pendant||
+|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)||
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Winding Sheet||
 |Chest|T10 Chest|Vendor|
@@ -169,7 +169,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Head|T10 Head|Vendor|
-|Neck|Penumbra Pendant||
+|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)||
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Sylvana"s Cunning||
 |Chest|T10 Chest|Vendor|
@@ -384,7 +384,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Head|T10 Head|Vendor|
-|Neck|Penumbra Pendant||
+|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)||
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Shadowvault Slayer"s Cloak||
 |Chest|T10 Chest|Vendor|
@@ -408,7 +408,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Head|T10 Head|Vendor|
-|Neck|Penumbra Pendant||
+|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)||
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Winding Sheet||
 |Chest|T10 Chest|Vendor|
@@ -873,7 +873,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Head|T10 Head|Vendor|
-|Neck|Penumbra Pendant||
+|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)||
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Sylvana"s Cunning||
 |Chest|T10 Chest|Vendor|
@@ -896,7 +896,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Head|T10 Head|Vendor|
-|Neck|Penumbra Pendant||
+|Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)||
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Sylvana"s Cunning||
 |Chest|T10 Chest|Vendor|
