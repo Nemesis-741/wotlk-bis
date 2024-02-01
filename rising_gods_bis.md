@@ -11,21 +11,21 @@ Rising-Gods BiS List (WIP)
 |Head|T10 Head|Vendor|
 |Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)|Gunship Battle 25|
 |Shoulders|T10 Shoulders|Vendor|
-|Back|Winding Sheet||
+|Back|[Winding Sheet](https://db.rising-gods.de/?item=50677)|Rotface 25|
 |Chest|T10 Chest|Vendor|
 |Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion 25|
 |Hands|T10 Hands|Vendor|
-|Waist|Coldwraith Links||
+|Waist|[Coldwraith Links](https://db.rising-gods.de/?item=50620)|Valithria Dreamwalker 25|
 |Legs|T10 Legs|Vendor|
-|Feet|Apocolypse Advance||
-|Ring 1|Ashen Band of Endless Might||
-|Ring 2|Might of Blight||
-|Trinket 1|Deathbringer"s Will||
-|Trinket 2|Sharpened Twilight Scale||
-|Weapon|Shadowmourne||
-|Weapon (Alt)|Glorenzelg, High-Blade of the Silver Hand||
+|Feet|[Apocalypse Advance](https://db.rising-gods.de/?item=54578)|Halion 25|
+|Ring 1|[Ashen Band of Endless Might](https://db.rising-gods.de/?item=52572)|The Ashen Verdict|
+|Ring 2|[Might of Blight](https://db.rising-gods.de/?item=50693)||
+|Trinket 1|[Deathbringer's Will](https://db.rising-gods.de/?item=50363)|Saurfang 25|
+|Trinket 2|[Sharpened Twilight Scale](https://db.rising-gods.de/?item=54590)|Halion 25|
+|Weapon|[Shadowmourne](https://db.rising-gods.de/?item=49623)|Quest|
+|Weapon (Alt)|[Glorenzelg, High-Blade of the Silver Hand](https://db.rising-gods.de/?item=50730)|Lich King 25|
 |Offhand/Shield|-||
-|Relic/Ranged|Sigil of the Hanged Man||
+|Relic/Ranged|[Sigil of the Hanged Man](https://db.rising-gods.de/?item=50459)|Vendor|
 
 ## Frost Arp
 
@@ -38,13 +38,13 @@ Rising-Gods BiS List (WIP)
 |Chest|T10 Chest|Vendor|
 |Wrist|Toskk"s Maximized Wristguards||
 |Hands|Aldriana"s Gloves of Secrecy||
-|Waist|Coldwraith Links||
+|Waist|[Coldwraith Links](https://db.rising-gods.de/?item=50620)|Valithria Dreamwalker 25|
 |Legs|T10 Legs|Vendor|
-|Feet|Apocolypse Advance||
-|Ring 1|Ashen Band of Endless Might||
-|Ring 2|Might of Blight||
-|Trinket 1|Deathbringer"s Will||
-|Trinket 2|Sharpened Twilight Scale||
+|Feet|[Apocalypse Advance](https://db.rising-gods.de/?item=54578)|Halion 25|
+|Ring 1|[Ashen Band of Endless Might](https://db.rising-gods.de/?item=52572)|The Ashen Verdict|
+|Ring 2|[Might of Blight](https://db.rising-gods.de/?item=50693)||
+|Trinket 1|[Deathbringer's Will](https://db.rising-gods.de/?item=50363)|Saurfang 25|
+|Trinket 2|[Sharpened Twilight Scale](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Weapon|Havoc"s Call, Blade of Lordaeron Kings||
 |Offhand/Shield|Havoc"s Call, Blade of Lordaeron Kings||
 |Relic/Ranged|Sigil of Awareness||
@@ -56,20 +56,20 @@ Rising-Gods BiS List (WIP)
 |Head|T10 Head|Vendor|
 |Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)|Gunship Battle 25|
 |Shoulders|T10 Shoulders|Vendor|
-|Back|Winding Sheet||
+|Back|[Winding Sheet](https://db.rising-gods.de/?item=50677)|Rotface 25|
 |Chest|T10 Chest|Vendor|
 |Wrist|[Polar Bear Claw Bracers](https://db.rising-gods.de/?item=50659)||
 |Hands|Fleshrending Gauntlets||
-|Waist|Coldwraith Links||
+|Waist|[Coldwraith Links](https://db.rising-gods.de/?item=50620)|Valithria Dreamwalker 25|
 |Legs|T10 Legs|Vendor|
-|Feet|Apocolypse Advance||
-|Ring 1|Ashen Band of Endless Might||
-|Ring 2|Might of Blight||
-|Trinket 1|Deathbringer"s Will||
-|Trinket 2|Sharpened Twilight Scale||
+|Feet|[Apocalypse Advance](https://db.rising-gods.de/?item=54578)|Halion 25|
+|Ring 1|[Ashen Band of Endless Might](https://db.rising-gods.de/?item=52572)|The Ashen Verdict|
+|Ring 2|[Might of Blight](https://db.rising-gods.de/?item=50693)||
+|Trinket 1|[Deathbringer's Will](https://db.rising-gods.de/?item=50363)|Saurfang 25|
+|Trinket 2|[Sharpened Twilight Scale](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Weapon|Havoc"s Call, Blade of Lordaeron Kings||
 |Offhand/Shield|Havoc"s Call, Blade of Lordaeron Kings||
-|Relic/Ranged|Sigil of the Hanged Man||
+|Relic/Ranged|[Sigil of the Hanged Man](https://db.rising-gods.de/?item=50459)|Vendor|
 
 ## Unholy
 
@@ -78,21 +78,21 @@ Rising-Gods BiS List (WIP)
 |Head|T10 Head|Vendor|
 |Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)|Gunship Battle 25|
 |Shoulders|T10 Shoulders|Vendor|
-|Back|Winding Sheet||
+|Back|[Winding Sheet](https://db.rising-gods.de/?item=50677)|Rotface 25|
 |Chest|T10 Chest|Vendor|
 |Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion 25|
 |Hands|T10 Hands|Vendor|
-|Waist|Coldwraith Links||
+|Waist|[Coldwraith Links](https://db.rising-gods.de/?item=50620)|Valithria Dreamwalker 25|
 |Legs|Scourge Reaver"s Legplates||
-|Feet|Apocolypse Advance||
-|Ring 1|Ashen Band of Endless Might||
-|Ring 2|Might of Blight||
-|Trinket 1|Deathbringer"s Will||
-|Trinket 2|Sharpened Twilight Scale||
-|Weapon|Shadowmourne||
-|Weapon (Alt)|Glorenzelg, High-Blade of the Silver Hand||
+|Feet|[Apocalypse Advance](https://db.rising-gods.de/?item=54578)|Halion 25|
+|Ring 1|[Ashen Band of Endless Might](https://db.rising-gods.de/?item=52572)|The Ashen Verdict|
+|Ring 2|[Might of Blight](https://db.rising-gods.de/?item=50693)||
+|Trinket 1|[Deathbringer's Will](https://db.rising-gods.de/?item=50363)|Saurfang 25|
+|Trinket 2|[Sharpened Twilight Scale](https://db.rising-gods.de/?item=54590)|Halion 25|
+|Weapon|[Shadowmourne](https://db.rising-gods.de/?item=49623)|Quest|
+|Weapon (Alt)|[Glorenzelg, High-Blade of the Silver Hand](https://db.rising-gods.de/?item=50730)|Lich King 25|
 |Offhand/Shield|-||
-|Relic/Ranged|Sigil of the Hanged Man||
+|Relic/Ranged|[Sigil of the Hanged Man](https://db.rising-gods.de/?item=50459)|Vendor|
 
 ## Unholy (Expertise)
 
@@ -101,21 +101,21 @@ Rising-Gods BiS List (WIP)
 |Head|T10 Head|Vendor|
 |Neck|Lana"thel"s Chain of Flagellation||
 |Shoulders|T10 Shoulders|Vendor|
-|Back|Winding Sheet||
+|Back|[Winding Sheet](https://db.rising-gods.de/?item=50677)|Rotface 25|
 |Chest|T10 Chest|Vendor|
 |Wrist|[Polar Bear Claw Bracers](https://db.rising-gods.de/?item=50659)||
 |Hands|Fleshrending Gauntlets||
-|Waist|Coldwraith Links||
+|Waist|[Coldwraith Links](https://db.rising-gods.de/?item=50620)|Valithria Dreamwalker 25|
 |Legs|T10 Legs|Vendor|
-|Feet|Apocolypse Advance||
-|Ring 1|Ashen Band of Endless Might||
+|Feet|[Apocalypse Advance](https://db.rising-gods.de/?item=54578)|Halion 25|
+|Ring 1|[Ashen Band of Endless Might](https://db.rising-gods.de/?item=52572)|The Ashen Verdict|
 |Ring 2|Skeleton Lord"s Circle||
-|Trinket 1|Deathbringer"s Will||
-|Trinket 2|Sharpened Twilight Scale||
-|Weapon|Shadowmourne||
-|Weapon (Alt)|Glorenzelg, High-Blade of the Silver Hand||
+|Trinket 1|[Deathbringer's Will](https://db.rising-gods.de/?item=50363)|Saurfang 25|
+|Trinket 2|[Sharpened Twilight Scale](https://db.rising-gods.de/?item=54590)|Halion 25|
+|Weapon|[Shadowmourne](https://db.rising-gods.de/?item=49623)|Quest|
+|Weapon (Alt)|[Glorenzelg, High-Blade of the Silver Hand](https://db.rising-gods.de/?item=50730)|Lich King 25|
 |Offhand/Shield|-||
-|Relic/Ranged|Sigil of the Hanged Man||
+|Relic/Ranged|[Sigil of the Hanged Man](https://db.rising-gods.de/?item=50459)|Vendor|
 
 ## Tank
 
@@ -158,7 +158,7 @@ Rising-Gods BiS List (WIP)
 |Ring 2|Signified ring of Binding||
 |Trinket 1|Sindragosa"s Flawless Fang||
 |Trinket 2|Juggernaut"s Vitality||
-|Weapon|Glorenzelg, High-Blade of the Silver Hand||
+|Weapon|[Glorenzelg, High-Blade of the Silver Hand](https://db.rising-gods.de/?item=50730)|Lich King 25|
 |Offhand/Shield|-||
 |Relic/Ranged|Sigil of Insolence||
 
@@ -180,8 +180,8 @@ Rising-Gods BiS List (WIP)
 |Feet|Frostbitten Fur Boots||
 |Ring 1|Ashen Band of Endless Vengeance||
 |Ring 2|Signet of Twilight||
-|Trinket 1|Deathbringer"s Will||
-|Trinket 2|Sharpened Twilight Scale||
+|Trinket 1|[Deathbringer's Will](https://db.rising-gods.de/?item=50363)|Saurfang 25|
+|Trinket 2|[Sharpened Twilight Scale](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Weapon|Oathbinder, Charge of the Ranger-General||
 |Offhand/Shield|-||
 |Relic/Ranged|Idol of the Crying Moon||
@@ -202,8 +202,8 @@ Rising-Gods BiS List (WIP)
 |Feet|Frostbitten Fur Boots||
 |Ring 1|Ashen Band of Endless Vengeance||
 |Ring 2|Signet of Twilight||
-|Trinket 1|Deathbringer"s Will||
-|Trinket 2|Sharpened Twilight Scale||
+|Trinket 1|[Deathbringer's Will](https://db.rising-gods.de/?item=50363)|Saurfang 25|
+|Trinket 2|[Sharpened Twilight Scale](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Weapon|Oathbinder, Charge of the Ranger-General||
 |Offhand/Shield|-||
 |Relic/Ranged|Idol of the Crying Moon||
@@ -300,8 +300,8 @@ Rising-Gods BiS List (WIP)
 |Feet|Returning Footfalls||
 |Ring 1|Ashen Band of Endless Vengeance||
 |Ring 2|Frostbrood Sapphire Ring||
-|Trinket 1|Deathbringer"s Will||
-|Trinket 2|Sharpened Twilight Scale||
+|Trinket 1|[Deathbringer's Will](https://db.rising-gods.de/?item=50363)|Saurfang 25|
+|Trinket 2|[Sharpened Twilight Scale](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Weapon|Oathbinder, Charge of the Ranger-General||
 |Offhand/Shield|-||
 |Relic/Ranged|Fal"inrush, Defender of Quel"thalas||
@@ -392,12 +392,12 @@ Rising-Gods BiS List (WIP)
 |Hands|Anub"ar Stalker"s Gloves||
 |Waist|Astrylian"s Sutured Cinch||
 |Legs|T10 Legs|Vendor|
-|Feet|Apocolypse Advance||
+|Feet|[Apocalypse Advance](https://db.rising-gods.de/?item=54578)|Halion 25|
 |Ring 1|Ashen Band of Endless Vengeance||
 |Ring 2|Signet of Twilight||
-|Trinket 1|Sharpened Twilight Scale||
+|Trinket 1|[Sharpened Twilight Scale](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Trinket 2|Tiny Abomination in a Jar||
-|Weapon|Shadowmourne||
+|Weapon|[Shadowmourne](https://db.rising-gods.de/?item=49623)|Quest|
 |Weapon (Alt)|Oathbinder, Charge of the Ranger-General||
 |Offhand/Shield|-||
 |Relic/Ranged|Libram of Valiance||
@@ -410,19 +410,19 @@ Rising-Gods BiS List (WIP)
 |Head|T10 Head|Vendor|
 |Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)|Gunship Battle 25|
 |Shoulders|T10 Shoulders|Vendor|
-|Back|Winding Sheet||
+|Back|[Winding Sheet](https://db.rising-gods.de/?item=50677)|Rotface 25|
 |Chest|T10 Chest|Vendor|
 |Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion 25|
 |Hands|Fleshrending Gauntlets||
-|Waist|Coldwraith Links||
+|Waist|[Coldwraith Links](https://db.rising-gods.de/?item=50620)|Valithria Dreamwalker 25|
 |Legs|T10 Legs|Vendor|
-|Feet|Apocolypse Advance||
-|Ring 1|Ashen Band of Endless Might||
+|Feet|[Apocalypse Advance](https://db.rising-gods.de/?item=54578)|Halion 25|
+|Ring 1|[Ashen Band of Endless Might](https://db.rising-gods.de/?item=52572)|The Ashen Verdict|
 |Ring 2|Signet of Twilight||
 |Trinket 1|Death"s Choice||
 |Trinket 2|Tiny Abomination in a Jar||
-|Weapon|Shadowmourne||
-|Weapon (Alt)|Glorenzelg, High-Blade of the Silver Hand||
+|Weapon|[Shadowmourne](https://db.rising-gods.de/?item=49623)|Quest|
+|Weapon (Alt)|[Glorenzelg, High-Blade of the Silver Hand](https://db.rising-gods.de/?item=50730)|Lich King 25|
 |Offhand/Shield|-||
 |Relic/Ranged|Libram of Valiance||
 |Relic/Ranged (Alt)|Libram of Three Truths||
@@ -631,8 +631,8 @@ Rising-Gods BiS List (WIP)
 |Feet|Frostbitten Fur Boots||
 |Ring 1|Ashen Band of Endless Vengeance||
 |Ring 2|Frostbrood Sapphire Ring||
-|Trinket 1|Deathbringer"s Will||
-|Trinket 2|Sharpened Twilight Scale||
+|Trinket 1|[Deathbringer's Will](https://db.rising-gods.de/?item=50363)|Saurfang 25|
+|Trinket 2|[Sharpened Twilight Scale](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Weapon|Havoc"s Call, Blade of Lordaeron Kings||
 |Offhand/Shield|Scourgeborne Waraxe||
 |Relic/Ranged|Fal"inrush, Defender of Quel"thalas||
@@ -654,8 +654,8 @@ Rising-Gods BiS List (WIP)
 |Feet|Frostbitten Fur Boots||
 |Ring 1|Ashen Band of Endless Vengeance||
 |Ring 2|Signet of Twilight||
-|Trinket 1|Deathbringer"s Will||
-|Trinket 2|Sharpened Twilight Scale||
+|Trinket 1|[Deathbringer's Will](https://db.rising-gods.de/?item=50363)|Saurfang 25|
+|Trinket 2|[Sharpened Twilight Scale](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Weapon|Havoc"s Call, Blade of Lordaeron Kings||
 |Offhand/Shield|Scourgeborne Waraxe||
 |Relic/Ranged|Fal"inrush, Defender of Quel"thalas||
@@ -677,7 +677,7 @@ Rising-Gods BiS List (WIP)
 |Ring 1|Ashen Band of Endless Vengeance||
 |Ring 2|Signet of Twilight||
 |Trinket 1|Tiny Abomination in a Jar||
-|Trinket 2|Sharpened Twilight Scale||
+|Trinket 2|[Sharpened Twilight Scale](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Weapon|Heaven"s Fall, Kryss of a Thousand Lies||
 |Offhand/Shield|Lungbreaker||
 |Relic/Ranged|Fal"inrush, Defender of Quel"thalas||
@@ -770,8 +770,8 @@ Rising-Gods BiS List (WIP)
 |Feet|Returning Footfalls||
 |Ring 1|Ashen Band of Endless Vengeance||
 |Ring 2|Signet of Twilight||
-|Trinket 1|Deathbringer"s Will||
-|Trinket 2|Sharpened Twilight Scale||
+|Trinket 1|[Deathbringer's Will](https://db.rising-gods.de/?item=50363)|Saurfang 25|
+|Trinket 2|[Sharpened Twilight Scale](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Weapon|Havoc"s Call, Blade of Lordaeron Kings||
 |Offhand/Shield|Havoc"s Call, Blade of Lordaeron Kings||
 |Relic/Ranged|Totem of the Avalanche||
@@ -793,7 +793,7 @@ Rising-Gods BiS List (WIP)
 |Ring 1|Ashen Band of Endless Vengeance||
 |Ring 2|Signet of Twilight||
 |Trinket 1|Herkuml War Token||
-|Trinket 2|Sharpened Twilight Scale||
+|Trinket 2|[Sharpened Twilight Scale](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Weapon|Havoc"s Call, Blade of Lordaeron Kings||
 |Offhand/Shield|Havoc"s Call, Blade of Lordaeron Kings||
 |Relic/Ranged|Bizuri"s Totem of Shattered Ice||
@@ -880,15 +880,15 @@ Rising-Gods BiS List (WIP)
 |Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion 25|
 |Wrist (Alt)|Toskk"s Maximized Wristguards||
 |Hands|Aldriana"s Gloves of Secrecy||
-|Waist|Coldwraith Links||
+|Waist|[Coldwraith Links](https://db.rising-gods.de/?item=50620)|Valithria Dreamwalker 25|
 |Legs|T10 Legs|Vendor|
-|Feet|Apocolypse Advance||
+|Feet|[Apocalypse Advance](https://db.rising-gods.de/?item=54578)|Halion 25|
 |Ring 1|Ashen Band of Endless Vengeance||
 |Ring 2|Frostbrood Sapphire Ring||
-|Trinket 1|Deathbringer"s Will||
-|Trinket 2|Sharpened Twilight Scale||
-|Weapon|Shadowmourne||
-|Offhand/Shield|Glorenzelg, High-Blade of the Silver Hand||
+|Trinket 1|[Deathbringer's Will](https://db.rising-gods.de/?item=50363)|Saurfang 25|
+|Trinket 2|[Sharpened Twilight Scale](https://db.rising-gods.de/?item=54590)|Halion 25|
+|Weapon|[Shadowmourne](https://db.rising-gods.de/?item=49623)|Quest|
+|Offhand/Shield|[Glorenzelg, High-Blade of the Silver Hand](https://db.rising-gods.de/?item=50730)|Lich King 25|
 |Relic/Ranged|Fal"inrush, Defender of Quel"thalas||
 
 ## Fury (No Sm)
@@ -903,15 +903,15 @@ Rising-Gods BiS List (WIP)
 |Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion 25|
 |Wrist (Alt)|Toskk"s Maximized Wristguards||
 |Hands|T10 Hands|Vendor|
-|Waist|Coldwraith Links||
+|Waist|[Coldwraith Links](https://db.rising-gods.de/?item=50620)|Valithria Dreamwalker 25|
 |Legs|Leggings of Northern Lights||
-|Feet|Apocolypse Advance||
+|Feet|[Apocalypse Advance](https://db.rising-gods.de/?item=54578)|Halion 25|
 |Ring 1|Ashen Band of Endless Vengeance||
 |Ring 2|Frostbrood Sapphire Ring||
-|Trinket 1|Deathbringer"s Will||
-|Trinket 2|Sharpened Twilight Scale||
-|Weapon|Glorenzelg, High-Blade of the Silver Hand||
-|Offhand/Shield|Glorenzelg, High-Blade of the Silver Hand||
+|Trinket 1|[Deathbringer's Will](https://db.rising-gods.de/?item=50363)|Saurfang 25|
+|Trinket 2|[Sharpened Twilight Scale](https://db.rising-gods.de/?item=54590)|Halion 25|
+|Weapon|[Glorenzelg, High-Blade of the Silver Hand](https://db.rising-gods.de/?item=50730)|Lich King 25|
+|Offhand/Shield|[Glorenzelg, High-Blade of the Silver Hand](https://db.rising-gods.de/?item=50730)|Lich King 25|
 |Relic/Ranged|Fal"inrush, Defender of Quel"thalas||
 
 ## Protection
@@ -936,4 +936,4 @@ Rising-Gods BiS List (WIP)
 |Weapon|Bloodvenom Blade||
 |Weapon (Alt)|Mithrios, Bronzebeard"s Legacy||
 |Offhand/Shield|Icecrown Glacial Wall||
-|Relic/Ranged|Dreamhunter"s Carbine||
+|Relic/Ranged|Valithria Dreamhunter"s Carbine||
