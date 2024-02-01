@@ -34,9 +34,9 @@ Rising-Gods BiS List (WIP)
 |Head|T10 Head|Vendor|
 |Neck|[Penumbra Pendant](https://db.rising-gods.de/?item=54581)|Gunship Battle 25|
 |Shoulders|T10 Shoulders|Vendor|
-|Back|Garrosh"s Rage||
+|Back|[Garrosh's Rage](https://db.rising-gods.de/?item=47548)|TOGC 25 Tribute|
 |Chest|T10 Chest|Vendor|
-|Wrist|Toskk"s Maximized Wristguards||
+|Wrist|[Toskk's Maximized Wristguards](https://db.rising-gods.de/?item=50670)|Saurfang 25||
 |Hands|Aldriana"s Gloves of Secrecy||
 |Waist|[Coldwraith Links](https://db.rising-gods.de/?item=50620)|Valithria Dreamwalker 25|
 |Legs|T10 Legs|Vendor|
@@ -173,7 +173,7 @@ Rising-Gods BiS List (WIP)
 |Shoulders|T10 Shoulders|Vendor|
 |Back|Sylvana"s Cunning||
 |Chest|T10 Chest|Vendor|
-|Wrist|Toskk"s Maximized Wristguards||
+|Wrist|[Toskk's Maximized Wristguards](https://db.rising-gods.de/?item=50670)|Saurfang 25||
 |Hands|Aldriana"s Gloves of Secrecy||
 |Waist|Astrylian"s Sutured Cinch||
 |Legs|T10 Legs|Vendor|
@@ -624,7 +624,7 @@ Rising-Gods BiS List (WIP)
 |Back|Sylvana"s Cunning||
 |Chest|Ikfirus"s Sack of Wonder||
 |Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion 25|
-|Wrist (Alt)|Toskk"s Maximized Wristguards||
+|Wrist (Alt)|[Toskk's Maximized Wristguards](https://db.rising-gods.de/?item=50670)|Saurfang 25||
 |Hands|Aldriana"s Gloves of Secrecy||
 |Waist|Astrylian"s Sutured Cinch||
 |Legs|Gangrenous Leggings||
@@ -647,7 +647,7 @@ Rising-Gods BiS List (WIP)
 |Back|Sylvana"s Cunning||
 |Chest|T10 Chest|Vendor|
 |Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion 25|
-|Wrist (Alt)|Toskk"s Maximized Wristguards||
+|Wrist (Alt)|[Toskk's Maximized Wristguards](https://db.rising-gods.de/?item=50670)|Saurfang 25||
 |Hands|Aldriana"s Gloves of Secrecy||
 |Waist|Astrylian"s Sutured Cinch||
 |Legs|T10 Legs|Vendor|
@@ -878,7 +878,7 @@ Rising-Gods BiS List (WIP)
 |Back|Sylvana"s Cunning||
 |Chest|T10 Chest|Vendor|
 |Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion 25|
-|Wrist (Alt)|Toskk"s Maximized Wristguards||
+|Wrist (Alt)|[Toskk's Maximized Wristguards](https://db.rising-gods.de/?item=50670)|Saurfang 25||
 |Hands|Aldriana"s Gloves of Secrecy||
 |Waist|[Coldwraith Links](https://db.rising-gods.de/?item=50620)|Valithria Dreamwalker 25|
 |Legs|T10 Legs|Vendor|
@@ -901,7 +901,7 @@ Rising-Gods BiS List (WIP)
 |Back|Sylvana"s Cunning||
 |Chest|T10 Chest|Vendor|
 |Wrist|[Umbrage Armbands](https://db.rising-gods.de/?item=54580)|Halion 25|
-|Wrist (Alt)|Toskk"s Maximized Wristguards||
+|Wrist (Alt)|[Toskk's Maximized Wristguards](https://db.rising-gods.de/?item=50670)|Saurfang 25||
 |Hands|T10 Hands|Vendor|
 |Waist|[Coldwraith Links](https://db.rising-gods.de/?item=50620)|Valithria Dreamwalker 25|
 |Legs|Leggings of Northern Lights||
