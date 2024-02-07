@@ -36,8 +36,8 @@ Rising-Gods BiS List (WIP)
 |Schultern|T10 Schultern|Händler|
 |Rücken|[Garroshs Wut](https://db.rising-gods.de/?item=47548)|PDOK 25 Tribute|
 |Brust|T10 Brust|Händler|
-|Handgelenke|[Toskks maximierte Handgelenksschützer](https://db.rising-gods.de/?item=50670)|Saurfang 25||
-|Hände|Aldriana"s Gloves of Secrecy||
+|Handgelenke|[Toskks maximierte Handgelenksschützer](https://db.rising-gods.de/?item=50670)|Saurfang 25|
+|Hände|[Aldrianas Handschuhe der Geheimhaltung](https://db.rising-gods.de/?item=50675)|Modermiene 25|
 |Taille|[Verbund des Eisigen Gespenstes](https://db.rising-gods.de/?item=50620)|Valithria Traumwandler 25|
 |Beine|T10 Beine|Händler|
 |Füße|[Vormarsch der Apokalypse](https://db.rising-gods.de/?item=54578)|Halion 25|
@@ -171,42 +171,42 @@ Rising-Gods BiS List (WIP)
 |Kopf|T10 Kopf|Händler|
 |Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Luftschlacht 25|
 |Schultern|T10 Schultern|Händler|
-|Rücken|Sylvana"s Cunning||
+|Rücken|[Sylvanas' List](https://db.rising-gods.de/?item=47546)|PDOK 25 Tribute|
 |Brust|T10 Brust|Händler|
-|Handgelenke|[Toskks maximierte Handgelenksschützer](https://db.rising-gods.de/?item=50670)|Saurfang 25||
-|Hände|Aldriana"s Gloves of Secrecy||
-|Taille|Astrylian"s Sutured Cinch||
+|Handgelenke|[Toskks maximierte Handgelenksschützer](https://db.rising-gods.de/?item=50670)|Saurfang 25|
+|Hände|[Aldrianas Handschuhe der Geheimhaltung](https://db.rising-gods.de/?item=50675)|Modermiene 25|
+|Taille|[Astrylians Vernähter Gurt](https://db.rising-gods.de/?item=50707)|Professor Seuchenmord 25|
 |Beine|T10 Beine|Händler|
-|Füße|Frostbitten Fur Boots||
-|Ring 1|Ashen Band of Endless Vengeance||
-|Ring 2|Signet of Twilight||
+|Füße|[Gefrorene Pelzstiefel](https://db.rising-gods.de/?item=50607)|Lord Mark'gar 25|
+|Ring 1|[Äschernes Band der endlosen Rache](https://db.rising-gods.de/?item=50402)|Das Äscherne Verdikt|
+|Ring 2|[Siegel des Zwielichts](https://db.rising-gods.de/?item=54576)|Halion 25|
 |Trinket 1|[Wille des Todesbringers](https://db.rising-gods.de/?item=50363)|Saurfang 25|
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
-|Waffe|Oathbinder, Charge of the Ranger-General||
+|Waffe|[Schwurbinder, Kraft des Waldläufergenerals](https://db.rising-gods.de/?item=50425)|Lich King 25|
 |Offhand/Schild|-||
-|Relikt/Fernkampf|Idol of the Crying Moon||
+|Relikt/Fernkampf|[Götze des weinenden Mondes](https://db.rising-gods.de/?item=50456)|Händler|
 
 ## Haste Cat
 
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|Sindragosa"s Cruel Claw||
+|Hals|[Sindragosas grausame Klaue](https://db.rising-gods.de/?item=50633)|Sindragosa 25||
 |Schultern|T10 Schultern|Händler|
-|Rücken|Shadowvault Slayer"s Cloak||
+|Rücken|[Schlächterumhang des Schattengewölbes](https://db.rising-gods.de/?item=50653)|Luftschlacht 25|
 |Brust|T10 Brust|Händler|
 |Handgelenke|[Schattenarmbänder](https://db.rising-gods.de/?item=54580)|Halion 25|
-|Hände|Aldriana"s Gloves of Secrecy||
-|Taille|Astrylian"s Sutured Cinch||
+|Hände|[Aldrianas Handschuhe der Geheimhaltung](https://db.rising-gods.de/?item=50675)|Modermiene 25|
+|Taille|[Astrylians Vernähter Gurt](https://db.rising-gods.de/?item=50707)|Professor Seuchenmord 25|
 |Beine|T10 Beine|Händler|
-|Füße|Frostbitten Fur Boots||
-|Ring 1|Ashen Band of Endless Vengeance||
-|Ring 2|Signet of Twilight||
+|Füße|[Gefrorene Pelzstiefel](https://db.rising-gods.de/?item=50607)|Lord Mark'gar 25|
+|Ring 1|[Äschernes Band der endlosen Rache](https://db.rising-gods.de/?item=50402)|Das Äscherne Verdikt|
+|Ring 2|[Siegel des Zwielichts](https://db.rising-gods.de/?item=54576)|Halion 25|
 |Trinket 1|[Wille des Todesbringers](https://db.rising-gods.de/?item=50363)|Saurfang 25|
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
-|Waffe|Oathbinder, Charge of the Ranger-General||
+|Waffe|[Schwurbinder, Kraft des Waldläufergenerals](https://db.rising-gods.de/?item=50425)|Lich King 25|
 |Offhand/Schild|-||
-|Relikt/Fernkampf|Idol of the Crying Moon||
+|Relikt/Fernkampf|[Götze des weinenden Mondes](https://db.rising-gods.de/?item=50456)|Händler|
 
 ## Bear
 
@@ -216,41 +216,41 @@ Rising-Gods BiS List (WIP)
 |Hals|[Galleverkrustetes Medaillon](https://db.rising-gods.de/?item=50682)|Modermiene 25|
 |Schultern|T10 Schultern|Händler|
 |Rücken|[Winterumhang der Schildwache](https://db.rising-gods.de/?item=50466)|Händler||
-|Brust|Ikfirus"s Sack of Wonder||
+|Brust|[Ikfirus' Wundersack](https://db.rising-gods.de/?item=50656)|Professor Seuchenmord 25|
 |Handgelenke|[Schattenarmbänder](https://db.rising-gods.de/?item=54580)|Halion 25|
 |Hände|T10 Hände|Händler|
-|Taille|Astrylian"s Sutured Cinch||
+|Taille|[Astrylians Vernähter Gurt](https://db.rising-gods.de/?item=50707)|Professor Seuchenmord 25|
 |Beine|T10 Beine|Händler|
-|Füße|Frostbitten Fur Boots||
-|Füße (Alt)|Footpads of Impending Death (Expertise)||
+|Füße|[Gefrorene Pelzstiefel](https://db.rising-gods.de/?item=50607)|Lord Mark'gar 25|
+|Füße (Alt)|[Fußpolster des bevorstehenden Todes (Waffenkunde)](https://db.rising-gods.de/?item=49895)|Lederverarbeitung|
 |Ring 1|[Signifikanter Ring der Bindung](https://db.rising-gods.de/?item=49489)|Onyxia 25|
-|Ring 1 (Alt)|Signet of Twilight||
+|Ring 1 (Alt)|[Siegel des Zwielichts](https://db.rising-gods.de/?item=54576)|Halion 25|
 |Ring 2|[Deviums ewigkalter Ring](https://db.rising-gods.de/?item=50622)|Valithria Traumwandler 25|
 |Trinket 1|[Sindragosas makelloser Fangzahn](https://db.rising-gods.de/?item=50364)|Sindragosa 25|
 |Trinket 2|[Korrodierter Skelettschlüssel](https://db.rising-gods.de/?item=50356)|Händler|
 |Waffe|[Gruftmacher](https://db.rising-gods.de/?item=50603)|Rat der Blutprinzen 25|
-|Waffe (Alt)|Oathbinder, Charge of the Ranger-General||
-|Waffe (Alt)|Wrathful Gladiator"s Halberd||
+|Waffe (Alt)|[Schwurbinder, Kraft des Waldläufergenerals](https://db.rising-gods.de/?item=50425)|Lich King 25|
+|Waffe (Alt)|[Hellebarde des zornerfüllten Gladiators](https://db.rising-gods.de/?item=51481)|Arena Belohnung|
 |Offhand/Schild|-||
-|Relikt/Fernkampf|Idol of the Crying Moon||
+|Relikt/Fernkampf|[Götze des weinenden Mondes](https://db.rising-gods.de/?item=50456)|Händler|
 
 ## Balance
 
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|Blood Queen"s Crimson Choker||
+|Hals|[Purpurroter Halsreif der Blutkönigin](https://db.rising-gods.de/?item=50724)|Blutkönigin Lana'thel 25|
 |Schultern|T10 Schultern|Händler|
-|Rücken|Cloak of Burning Dusk||
+|Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
 |Brust|T10 Brust|Händler|
-|Handgelenke|Bracers of Fiery Night||
+|Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
 |Hände|T10 Hände|Händler|
-|Taille|Crushing Coldwraith Belt||
+|Taille|[Zerschmetternder Eisgespenstergürtel](https://db.rising-gods.de/?item=50613)|Lord Mark'gar 25|
 |Beine|T10 Beine|Händler|
-|Füße|Plague Scientist"s Boots||
-|Ring 1|Ashen Band of Endless Destruction||
-|Ring 2|Ring of Rapid Ascent||
-|Ring 2 (Alt)|Valanar"s other Signet Ring||
+|Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
+|Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
+|Ring 2|[Ring des Schnellen Aufstiegs](https://db.rising-gods.de/?item=50664)|Luftschlacht 25|
+|Ring 2 (Alt)|[Valanars anderer Siegelring](https://db.rising-gods.de/?item=50714)|Rat der Blutprinzen 25|
 |Trinket 1|Phylactery of the Nameless Lich||
 |Trinket 2|Charred Twilight Scale||
 |Waffe|Royal Scepter of Terenas II||
@@ -266,7 +266,7 @@ Rising-Gods BiS List (WIP)
 |Schultern|T10 Schultern|Händler|
 |Rücken|Greatcloak of the Turned Champion||
 |Brust|Sanguine Silk Robes||
-|Handgelenke|Bracers of Fiery Night||
+|Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
 |Hände|T10 Hände|Händler|
 |Taille|Professor"s Bloodied Smock||
 |Beine|T10 Beine|Händler|
@@ -289,20 +289,20 @@ Rising-Gods BiS List (WIP)
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
 |Hals|Rimetooth Pendant||
-|Hals (Alt)|Sindragosa"s Cruel Claw||
+|Hals (Alt)|[Sindragosas grausame Klaue](https://db.rising-gods.de/?item=50633)|Sindragosa 25||
 |Schultern|T10 Schultern|Händler|
-|Rücken|Sylvana"s Cunning||
+|Rücken|[Sylvanas' List](https://db.rising-gods.de/?item=47546)|PDOK 25 Tribute|
 |Brust|T10 Brust|Händler|
 |Handgelenke|Scourge Hunter"s Vambraces||
 |Hände|T10 Hände|Händler|
 |Taille|Nerub"ar Stalker"s Cord||
 |Beine|Leggings of Northern Lights||
 |Füße|Returning Footfalls||
-|Ring 1|Ashen Band of Endless Vengeance||
+|Ring 1|[Äschernes Band der endlosen Rache](https://db.rising-gods.de/?item=50402)|Das Äscherne Verdikt|
 |Ring 2|Frostbrood Sapphire Ring||
 |Trinket 1|[Wille des Todesbringers](https://db.rising-gods.de/?item=50363)|Saurfang 25|
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
-|Waffe|Oathbinder, Charge of the Ranger-General||
+|Waffe|[Schwurbinder, Kraft des Waldläufergenerals](https://db.rising-gods.de/?item=50425)|Lich King 25|
 |Offhand/Schild|-||
 |Relikt/Fernkampf|Fal"inrush, Defender of Quel"thalas||
 
@@ -313,17 +313,17 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|Blood Queen"s Crimson Choker||
+|Hals|[Purpurroter Halsreif der Blutkönigin](https://db.rising-gods.de/?item=50724)|Blutkönigin Lana'thel 25|
 |Schultern|T10 Schultern|Händler|
-|Rücken|Cloak of Burning Dusk||
+|Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
 |Brust|Robe of the Walking Nightmare||
-|Handgelenke|Bracers of Fiery Night||
+|Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
 |Hände|T10 Hände|Händler|
-|Taille|Crushing Coldwraith Belt||
+|Taille|[Zerschmetternder Eisgespenstergürtel](https://db.rising-gods.de/?item=50613)|Lord Mark'gar 25|
 |Beine|T10 Beine|Händler|
-|Füße|Plague Scientist"s Boots||
-|Ring 1|Ashen Band of Endless Destruction||
-|Ring 2|Ring of Rapid Ascent||
+|Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
+|Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
+|Ring 2|[Ring des Schnellen Aufstiegs](https://db.rising-gods.de/?item=50664)|Luftschlacht 25|
 |Trinket 1|Phylactery of the Nameless Lich||
 |Trinket 2|Charred Twilight Scale||
 |Waffe|Bloodsurge, Kel"Thuzad"s Blade of Agony||
@@ -335,17 +335,17 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|Blood Queen"s Crimson Choker||
+|Hals|[Purpurroter Halsreif der Blutkönigin](https://db.rising-gods.de/?item=50724)|Blutkönigin Lana'thel 25|
 |Schultern|T10 Schultern|Händler|
-|Rücken|Cloak of Burning Dusk||
+|Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
 |Brust|T10 Brust|Händler|
-|Handgelenke|Bracers of Fiery Night||
+|Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
 |Hände|T10 Hände|Händler|
-|Taille|Crushing Coldwraith Belt||
+|Taille|[Zerschmetternder Eisgespenstergürtel](https://db.rising-gods.de/?item=50613)|Lord Mark'gar 25|
 |Beine|Plaguebringer"s Stained Pants||
-|Füße|Plague Scientist"s Boots||
-|Ring 1|Ashen Band of Endless Destruction||
-|Ring 2|Ring of Rapid Ascent||
+|Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
+|Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
+|Ring 2|[Ring des Schnellen Aufstiegs](https://db.rising-gods.de/?item=50664)|Luftschlacht 25|
 |Trinket 1|Dislodged Foreign Object||
 |Trinket 2|Charred Twilight Scale||
 |Waffe|Bloodsurge, Kel"Thuzad"s Blade of Agony||
@@ -359,18 +359,18 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|Blood Queen"s Crimson Choker||
+|Hals|[Purpurroter Halsreif der Blutkönigin](https://db.rising-gods.de/?item=50724)|Blutkönigin Lana'thel 25|
 |Schultern|T10 Schultern|Händler|
-|Rücken|Cloak of Burning Dusk||
+|Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
 |Brust|Rot-Resistant Breastplate||
-|Handgelenke|Bracers of Fiery Night||
+|Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
 |Handgelenke (Alt)|Phaseshifter"s Bracers||
 |Hände|Fallen Lord"s Handguards||
 |Taille|Split Shape Belt||
 |Beine|Plaguebringer"s Stained Pants||
 |Füße|Foreshadow Steps||
 |Ring 1|Ring of Phased Regeneration||
-|Ring 2|Ring of Rapid Ascent||
+|Ring 2|[Ring des Schnellen Aufstiegs](https://db.rising-gods.de/?item=50664)|Luftschlacht 25|
 |Trinket 1|Glowing Twilight Scale||
 |Trinket 2|Meteorite Crystal||
 |Trinket 2 (Alt)|Talisman of Resurgence||
@@ -386,19 +386,19 @@ Rising-Gods BiS List (WIP)
 |Kopf|T10 Kopf|Händler|
 |Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Luftschlacht 25|
 |Schultern|T10 Schultern|Händler|
-|Rücken|Shadowvault Slayer"s Cloak||
+|Rücken|[Schlächterumhang des Schattengewölbes](https://db.rising-gods.de/?item=50653)|Luftschlacht 25|
 |Brust|T10 Brust|Händler|
 |Handgelenke|[Schattenarmbänder](https://db.rising-gods.de/?item=54580)|Halion 25|
 |Hände|Anub"ar Stalker"s Gloves||
-|Taille|Astrylian"s Sutured Cinch||
+|Taille|[Astrylians Vernähter Gurt](https://db.rising-gods.de/?item=50707)|Professor Seuchenmord 25|
 |Beine|T10 Beine|Händler|
 |Füße|[Vormarsch der Apokalypse](https://db.rising-gods.de/?item=54578)|Halion 25|
-|Ring 1|Ashen Band of Endless Vengeance||
-|Ring 2|Signet of Twilight||
+|Ring 1|[Äschernes Band der endlosen Rache](https://db.rising-gods.de/?item=50402)|Das Äscherne Verdikt|
+|Ring 2|[Siegel des Zwielichts](https://db.rising-gods.de/?item=54576)|Halion 25|
 |Trinket 1|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Trinket 2|Tiny Abomination in a Jar||
 |Waffe|[Schatengram](https://db.rising-gods.de/?item=49623)|Quest|
-|Waffe (Alt)|Oathbinder, Charge of the Ranger-General||
+|Waffe (Alt)|[Schwurbinder, Kraft des Waldläufergenerals](https://db.rising-gods.de/?item=50425)|Lich King 25|
 |Offhand/Schild|-||
 |Relikt/Fernkampf|Libram of Valiance||
 |Relikt/Fernkampf (Alt)|Libram of Three Truths||
@@ -418,7 +418,7 @@ Rising-Gods BiS List (WIP)
 |Beine|T10 Beine|Händler|
 |Füße|[Vormarsch der Apokalypse](https://db.rising-gods.de/?item=54578)|Halion 25|
 |Ring 1|[Äschernes Band der endlosen Macht](https://db.rising-gods.de/?item=52572)|Das Äscherne Verdikt|
-|Ring 2|Signet of Twilight||
+|Ring 2|[Siegel des Zwielichts](https://db.rising-gods.de/?item=54576)|Halion 25|
 |Trinket 1|Death"s Choice||
 |Trinket 2|Tiny Abomination in a Jar||
 |Waffe|[Schatengram](https://db.rising-gods.de/?item=49623)|Quest|
@@ -507,15 +507,15 @@ Rising-Gods BiS List (WIP)
 |Kopf|T10 Kopf|Händler|
 |Hals|Amulet of Silent Eulogy||
 |Schultern|T10 Schultern|Händler|
-|Rücken|Cloak of Burning Dusk||
+|Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
 |Brust|T10 Brust|Händler|
-|Handgelenke|Bracers of Fiery Night||
+|Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
 |Hände|Gunship Captain"s Mittens||
-|Taille|Crushing Coldwraith Belt||
+|Taille|[Zerschmetternder Eisgespenstergürtel](https://db.rising-gods.de/?item=50613)|Lord Mark'gar 25|
 |Beine|T10 Beine|Händler|
-|Füße|Plague Scientist"s Boots||
-|Ring 1|Ashen Band of Endless Destruction||
-|Ring 2|Ring of Rapid Ascent||
+|Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
+|Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
+|Ring 2|[Ring des Schnellen Aufstiegs](https://db.rising-gods.de/?item=50664)|Luftschlacht 25|
 |Trinket 1|Phylactery of the Nameless Lich||
 |Trinket 2|Charred Twilight Scale||
 |Waffe|Royal Scepter of Terenas II||
@@ -527,16 +527,16 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|Blood Queen"s Crimson Choker||
+|Hals|[Purpurroter Halsreif der Blutkönigin](https://db.rising-gods.de/?item=50724)|Blutkönigin Lana'thel 25|
 |Schultern|T10 Schultern|Händler|
-|Rücken|Cloak of Burning Dusk||
+|Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
 |Brust|T10 Brust|Händler|
-|Handgelenke|Bracers of Fiery Night||
+|Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
 |Hände|T10 Hände|Händler|
-|Taille|Crushing Coldwraith Belt||
+|Taille|[Zerschmetternder Eisgespenstergürtel](https://db.rising-gods.de/?item=50613)|Lord Mark'gar 25|
 |Beine|Plaguebringer"s Stained Pants||
-|Füße|Plague Scientist"s Boots||
-|Ring 1|Ashen Band of Endless Destruction||
+|Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
+|Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
 |Ring 2|Loop of the Endless Labyrinth||
 |Trinket 1|Phylactery of the Nameless Lich||
 |Trinket 2|Charred Twilight Scale||
@@ -549,17 +549,17 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|Blood Queen"s Crimson Choker||
+|Hals|[Purpurroter Halsreif der Blutkönigin](https://db.rising-gods.de/?item=50724)|Blutkönigin Lana'thel 25|
 |Schultern|T10 Schultern|Händler|
-|Rücken|Cloak of Burning Dusk||
+|Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
 |Brust|T10 Brust (Shadow Set)|Händler|
-|Handgelenke|Bracers of Fiery Night||
+|Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
 |Hände|T10 Hände|Händler|
 |Taille|Lingering Illness||
 |Beine|T10 Beine|Händler|
-|Füße|Plague Scientist"s Boots||
+|Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
 |Ring 1|Ring of Phased Regeneration||
-|Ring 2|Ring of Rapid Ascent||
+|Ring 2|[Ring des Schnellen Aufstiegs](https://db.rising-gods.de/?item=50664)|Luftschlacht 25|
 |Trinket 1|Glowing Twilight Scale||
 |Trinket 2|Althor"s Abacus||
 |Trinket 2 (Alt)|Solace of the Fallen||
@@ -574,13 +574,13 @@ Rising-Gods BiS List (WIP)
 |Kopf|T10 Kopf|Händler|
 |Hals|Holiday"s Grace||
 |Schultern|T10 Schultern|Händler|
-|Rücken|Cloak of Burning Dusk||
+|Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
 |Brust|T10 Brust|Händler|
-|Handgelenke|Bracers of Fiery Night||
+|Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
 |Hände|T10 Hände|Händler|
 |Taille|Lingering Illness||
 |Beine|T10 Beine (Shadow)|Händler|
-|Füße|Plague Scientist"s Boots||
+|Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
 |Ring 1|Ring of Phased Regeneration||
 |Ring 2|Ring of Maddening Whispers||
 |Trinket 1|Glowing Twilight Scale||
@@ -598,11 +598,11 @@ Rising-Gods BiS List (WIP)
 |Schultern|T10 Schultern|Händler|
 |Rücken|Greatcloak of the Turned Champion||
 |Brust|Sanguine Silk Robes||
-|Handgelenke|Bracers of Fiery Night||
+|Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
 |Hände|T10 Hände|Händler|
-|Taille|Crushing Coldwraith Belt||
+|Taille|[Zerschmetternder Eisgespenstergürtel](https://db.rising-gods.de/?item=50613)|Lord Mark'gar 25|
 |Beine|T10 Beine|Händler|
-|Füße|Plague Scientist"s Boots||
+|Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
 |Ring 1|Ring of Phased Regeneration||
 |Ring 2|Memory of Malygos||
 |Trinket 1|Glowing Twilight Scale||
@@ -619,17 +619,17 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|Sindragosa"s Cruel Claw||
+|Hals|[Sindragosas grausame Klaue](https://db.rising-gods.de/?item=50633)|Sindragosa 25||
 |Schultern|T10 Schultern|Händler|
-|Rücken|Sylvana"s Cunning||
-|Brust|Ikfirus"s Sack of Wonder||
+|Rücken|[Sylvanas' List](https://db.rising-gods.de/?item=47546)|PDOK 25 Tribute|
+|Brust|[Ikfirus' Wundersack](https://db.rising-gods.de/?item=50656)|Professor Seuchenmord 25|
 |Handgelenke|[Schattenarmbänder](https://db.rising-gods.de/?item=54580)|Halion 25|
-|Handgelenke (Alt)|[Toskks maximierte Handgelenksschützer](https://db.rising-gods.de/?item=50670)|Saurfang 25||
-|Hände|Aldriana"s Gloves of Secrecy||
-|Taille|Astrylian"s Sutured Cinch||
+|Handgelenke (Alt)|[Toskks maximierte Handgelenksschützer](https://db.rising-gods.de/?item=50670)|Saurfang 25|
+|Hände|[Aldrianas Handschuhe der Geheimhaltung](https://db.rising-gods.de/?item=50675)|Modermiene 25|
+|Taille|[Astrylians Vernähter Gurt](https://db.rising-gods.de/?item=50707)|Professor Seuchenmord 25|
 |Beine|Gangrenous Leggings||
-|Füße|Frostbitten Fur Boots||
-|Ring 1|Ashen Band of Endless Vengeance||
+|Füße|[Gefrorene Pelzstiefel](https://db.rising-gods.de/?item=50607)|Lord Mark'gar 25|
+|Ring 1|[Äschernes Band der endlosen Rache](https://db.rising-gods.de/?item=50402)|Das Äscherne Verdikt|
 |Ring 2|Frostbrood Sapphire Ring||
 |Trinket 1|[Wille des Todesbringers](https://db.rising-gods.de/?item=50363)|Saurfang 25|
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
@@ -642,18 +642,18 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|Sindragosa"s Cruel Claw||
+|Hals|[Sindragosas grausame Klaue](https://db.rising-gods.de/?item=50633)|Sindragosa 25||
 |Schultern|T10 Schultern|Händler|
-|Rücken|Sylvana"s Cunning||
+|Rücken|[Sylvanas' List](https://db.rising-gods.de/?item=47546)|PDOK 25 Tribute|
 |Brust|T10 Brust|Händler|
 |Handgelenke|[Schattenarmbänder](https://db.rising-gods.de/?item=54580)|Halion 25|
-|Handgelenke (Alt)|[Toskks maximierte Handgelenksschützer](https://db.rising-gods.de/?item=50670)|Saurfang 25||
-|Hände|Aldriana"s Gloves of Secrecy||
-|Taille|Astrylian"s Sutured Cinch||
+|Handgelenke (Alt)|[Toskks maximierte Handgelenksschützer](https://db.rising-gods.de/?item=50670)|Saurfang 25|
+|Hände|[Aldrianas Handschuhe der Geheimhaltung](https://db.rising-gods.de/?item=50675)|Modermiene 25|
+|Taille|[Astrylians Vernähter Gurt](https://db.rising-gods.de/?item=50707)|Professor Seuchenmord 25|
 |Beine|T10 Beine|Händler|
-|Füße|Frostbitten Fur Boots||
-|Ring 1|Ashen Band of Endless Vengeance||
-|Ring 2|Signet of Twilight||
+|Füße|[Gefrorene Pelzstiefel](https://db.rising-gods.de/?item=50607)|Lord Mark'gar 25|
+|Ring 1|[Äschernes Band der endlosen Rache](https://db.rising-gods.de/?item=50402)|Das Äscherne Verdikt|
+|Ring 2|[Siegel des Zwielichts](https://db.rising-gods.de/?item=54576)|Halion 25|
 |Trinket 1|[Wille des Todesbringers](https://db.rising-gods.de/?item=50363)|Saurfang 25|
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Waffe|[Chaosruf, Klinge der Könige von Lordaeron](https://db.rising-gods.de/?item=50737)|Lich King 25|
@@ -665,17 +665,17 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|Sindragosa"s Cruel Claw||
+|Hals|[Sindragosas grausame Klaue](https://db.rising-gods.de/?item=50633)|Sindragosa 25||
 |Schultern|T10 Schultern|Händler|
-|Rücken|Shadowvault Slayer"s Cloak||
-|Brust|Ikfirus"s Sack of Wonder||
+|Rücken|[Schlächterumhang des Schattengewölbes](https://db.rising-gods.de/?item=50653)|Luftschlacht 25|
+|Brust|[Ikfirus' Wundersack](https://db.rising-gods.de/?item=50656)|Professor Seuchenmord 25|
 |Handgelenke|[Schattenarmbänder](https://db.rising-gods.de/?item=54580)|Halion 25|
 |Hände|T10 Hände|Händler|
-|Taille|Astrylian"s Sutured Cinch||
+|Taille|[Astrylians Vernähter Gurt](https://db.rising-gods.de/?item=50707)|Professor Seuchenmord 25|
 |Beine|T10 Beine|Händler|
-|Füße|Frostbitten Fur Boots||
-|Ring 1|Ashen Band of Endless Vengeance||
-|Ring 2|Signet of Twilight||
+|Füße|[Gefrorene Pelzstiefel](https://db.rising-gods.de/?item=50607)|Lord Mark'gar 25|
+|Ring 1|[Äschernes Band der endlosen Rache](https://db.rising-gods.de/?item=50402)|Das Äscherne Verdikt|
+|Ring 2|[Siegel des Zwielichts](https://db.rising-gods.de/?item=54576)|Halion 25|
 |Trinket 1|Tiny Abomination in a Jar||
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Waffe|Heaven"s Fall, Kryss of a Thousand Lies||
@@ -689,16 +689,16 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|Blood Queen"s Crimson Choker||
+|Hals|[Purpurroter Halsreif der Blutkönigin](https://db.rising-gods.de/?item=50724)|Blutkönigin Lana'thel 25|
 |Schultern|Horrific Flesh Epaulets||
-|Rücken|Cloak of Burning Dusk||
+|Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
 |Brust|T10 Brust|Händler|
-|Handgelenke|Bracers of Fiery Night||
+|Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
 |Hände|T10 Hände|Händler|
 |Taille|Split Shape Belt||
 |Beine|T10 Beine|Händler|
-|Füße|Plague Scientist"s Boots||
-|Ring 1|Ashen Band of Endless Destruction||
+|Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
+|Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
 |Ring 2|Loop of the Endless Labyrinth||
 |Trinket 1|Phylactery of the Nameless Lich||
 |Trinket 2|Charred Twilight Scale||
@@ -712,17 +712,17 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|Blood Queen"s Crimson Choker||
+|Hals|[Purpurroter Halsreif der Blutkönigin](https://db.rising-gods.de/?item=50724)|Blutkönigin Lana'thel 25|
 |Schultern|T10 Schultern|Händler|
-|Rücken|Cloak of Burning Dusk||
+|Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
 |Brust|T10 Brust|Händler|
-|Handgelenke|Bracers of Fiery Night||
+|Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
 |Hände|T10 Hände|Händler|
 |Taille|Split Shape Belt||
 |Beine|Plaguebringer"s Stained Pants||
-|Füße|Plague Scientist"s Boots||
-|Ring 1|Ashen Band of Endless Destruction||
-|Ring 2|Valanar"s other Signet Ring||
+|Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
+|Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
+|Ring 2|[Valanars anderer Siegelring](https://db.rising-gods.de/?item=50714)|Rat der Blutprinzen 25|
 |Trinket 1|Phylactery of the Nameless Lich||
 |Trinket 2|Charred Twilight Scale||
 |Waffe|Royal Scepter of Terenas II||
@@ -734,19 +734,19 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|Blood Queen"s Crimson Choker||
+|Hals|[Purpurroter Halsreif der Blutkönigin](https://db.rising-gods.de/?item=50724)|Blutkönigin Lana'thel 25|
 |Schultern|T10 Schultern|Händler|
-|Rücken|Cloak of Burning Dusk||
+|Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
 |Brust|T10 Brust|Händler|
-|Handgelenke|Bracers of Fiery Night||
+|Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
 |Handgelenke (Alt)|Phaseshifter"s Bracers||
 |Hände|Changeling Gloves||
 |Hände (Alt)|Unclean Surgical Gloves||
 |Taille|Split Shape Belt||
 |Beine|T10 Beine|Händler|
-|Füße|Plague Scientist"s Boots||
+|Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
 |Ring 1|Ring of Phased Regeneration||
-|Ring 2|Ring of Rapid Ascent||
+|Ring 2|[Ring des Schnellen Aufstiegs](https://db.rising-gods.de/?item=50664)|Luftschlacht 25|
 |Trinket 1|Glowing Twilight Scale||
 |Trinket 2|Solace of the Fallen||
 |Waffe|Royal Scepter of Terenas II||
@@ -759,17 +759,17 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|Sindragosa"s Cruel Claw||
+|Hals|[Sindragosas grausame Klaue](https://db.rising-gods.de/?item=50633)|Sindragosa 25||
 |Schultern|T10 Schultern|Händler|
-|Rücken|Shadowvault Slayer"s Cloak||
+|Rücken|[Schlächterumhang des Schattengewölbes](https://db.rising-gods.de/?item=50653)|Luftschlacht 25|
 |Brust|T10 Brust|Händler|
 |Handgelenke|Scourge Hunter"s Vambraces||
 |Hände|Anub"ar Stalker"s Gloves||
 |Taille|Nerub"ar Stalker"s Cord||
 |Beine|T10 Beine|Händler|
 |Füße|Returning Footfalls||
-|Ring 1|Ashen Band of Endless Vengeance||
-|Ring 2|Signet of Twilight||
+|Ring 1|[Äschernes Band der endlosen Rache](https://db.rising-gods.de/?item=50402)|Das Äscherne Verdikt|
+|Ring 2|[Siegel des Zwielichts](https://db.rising-gods.de/?item=54576)|Halion 25|
 |Trinket 1|[Wille des Todesbringers](https://db.rising-gods.de/?item=50363)|Saurfang 25|
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Waffe|[Chaosruf, Klinge der Könige von Lordaeron](https://db.rising-gods.de/?item=50737)|Lich King 25|
@@ -783,15 +783,15 @@ Rising-Gods BiS List (WIP)
 |Kopf|T10 Kopf|Händler|
 |Hals|Precious"s Putrid Collar||
 |Schultern|T10 Schultern|Händler|
-|Rücken|Shadowvault Slayer"s Cloak||
+|Rücken|[Schlächterumhang des Schattengewölbes](https://db.rising-gods.de/?item=50653)|Luftschlacht 25|
 |Brust|T10 Brust|Händler|
 |Handgelenke|[Schattenarmbänder](https://db.rising-gods.de/?item=54580)|Halion 25|
 |Hände|Anub"ar Stalker"s Gloves||
 |Taille|Nerub"ar Stalker"s Cord||
 |Beine|T10 Beine|Händler|
 |Füße|Returning Footfalls||
-|Ring 1|Ashen Band of Endless Vengeance||
-|Ring 2|Signet of Twilight||
+|Ring 1|[Äschernes Band der endlosen Rache](https://db.rising-gods.de/?item=50402)|Das Äscherne Verdikt|
+|Ring 2|[Siegel des Zwielichts](https://db.rising-gods.de/?item=54576)|Halion 25|
 |Trinket 1|Herkuml War Token||
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Waffe|[Chaosruf, Klinge der Könige von Lordaeron](https://db.rising-gods.de/?item=50737)|Lich King 25|
@@ -807,15 +807,15 @@ Rising-Gods BiS List (WIP)
 |Kopf|T10 Kopf|Händler|
 |Hals|Amulet of Silent Eulogy||
 |Schultern|T10 Schultern|Händler|
-|Rücken|Cloak of Burning Dusk||
+|Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
 |Brust|T10 Brust|Händler|
-|Handgelenke|Bracers of Fiery Night||
+|Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
 |Hände|T10 Hände|Händler|
-|Taille|Crushing Coldwraith Belt||
+|Taille|[Zerschmetternder Eisgespenstergürtel](https://db.rising-gods.de/?item=50613)|Lord Mark'gar 25|
 |Beine|Plaguebringer"s Stained Pants||
-|Füße|Plague Scientist"s Boots||
-|Ring 1|Ashen Band of Endless Destruction||
-|Ring 2|Valanar"s other Signet Ring||
+|Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
+|Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
+|Ring 2|[Valanars anderer Siegelring](https://db.rising-gods.de/?item=50714)|Rat der Blutprinzen 25|
 |Trinket 1|Phylactery of the Nameless Lich||
 |Trinket 2|Charred Twilight Scale||
 |Waffe|Bloodsurge, Kel"Thuzad"s Blade of Agony||
@@ -829,15 +829,15 @@ Rising-Gods BiS List (WIP)
 |Kopf|T10 Kopf|Händler|
 |Hals|Amulet of Silent Eulogy||
 |Schultern|T10 Schultern|Händler|
-|Rücken|Cloak of Burning Dusk||
+|Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
 |Brust|T10 Brust|Händler|
-|Handgelenke|Bracers of Fiery Night||
+|Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
 |Hände|Gunship Captain"s Mittens||
-|Taille|Crushing Coldwraith Belt||
+|Taille|[Zerschmetternder Eisgespenstergürtel](https://db.rising-gods.de/?item=50613)|Lord Mark'gar 25|
 |Beine|T10 Beine|Händler|
-|Füße|Plague Scientist"s Boots||
-|Ring 1|Ashen Band of Endless Destruction||
-|Ring 2|Valanar"s other Signet Ring||
+|Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
+|Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
+|Ring 2|[Valanars anderer Siegelring](https://db.rising-gods.de/?item=50714)|Rat der Blutprinzen 25|
 |Trinket 1|Phylactery of the Nameless Lich||
 |Trinket 2|Charred Twilight Scale||
 |Waffe|Bloodsurge, Kel"Thuzad"s Blade of Agony||
@@ -851,15 +851,15 @@ Rising-Gods BiS List (WIP)
 |Kopf|T10 Kopf|Händler|
 |Hals|Amulet of Silent Eulogy||
 |Schultern|T10 Schultern|Händler|
-|Rücken|Cloak of Burning Dusk||
+|Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
 |Brust|T10 Brust|Händler|
-|Handgelenke|Bracers of Fiery Night||
+|Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
 |Hände|T10 Hände|Händler|
-|Taille|Crushing Coldwraith Belt||
+|Taille|[Zerschmetternder Eisgespenstergürtel](https://db.rising-gods.de/?item=50613)|Lord Mark'gar 25|
 |Beine|Plaguebringer"s Stained Pants||
-|Füße|Plague Scientist"s Boots||
-|Ring 1|Ashen Band of Endless Destruction||
-|Ring 2|Ring of Rapid Ascent||
+|Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
+|Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
+|Ring 2|[Ring des Schnellen Aufstiegs](https://db.rising-gods.de/?item=50664)|Luftschlacht 25|
 |Trinket 1|Dislodged Foreign Object||
 |Trinket 2|Charred Twilight Scale||
 |Waffe|Bloodsurge, Kel"Thuzad"s Blade of Agony||
@@ -875,15 +875,15 @@ Rising-Gods BiS List (WIP)
 |Kopf|T10 Kopf|Händler|
 |Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Luftschlacht 25|
 |Schultern|T10 Schultern|Händler|
-|Rücken|Sylvana"s Cunning||
+|Rücken|[Sylvanas' List](https://db.rising-gods.de/?item=47546)|PDOK 25 Tribute|
 |Brust|T10 Brust|Händler|
 |Handgelenke|[Schattenarmbänder](https://db.rising-gods.de/?item=54580)|Halion 25|
-|Handgelenke (Alt)|[Toskks maximierte Handgelenksschützer](https://db.rising-gods.de/?item=50670)|Saurfang 25||
-|Hände|Aldriana"s Gloves of Secrecy||
+|Handgelenke (Alt)|[Toskks maximierte Handgelenksschützer](https://db.rising-gods.de/?item=50670)|Saurfang 25|
+|Hände|[Aldrianas Handschuhe der Geheimhaltung](https://db.rising-gods.de/?item=50675)|Modermiene 25|
 |Taille|[Verbund des Eisigen Gespenstes](https://db.rising-gods.de/?item=50620)|Valithria Traumwandler 25|
 |Beine|T10 Beine|Händler|
 |Füße|[Vormarsch der Apokalypse](https://db.rising-gods.de/?item=54578)|Halion 25|
-|Ring 1|Ashen Band of Endless Vengeance||
+|Ring 1|[Äschernes Band der endlosen Rache](https://db.rising-gods.de/?item=50402)|Das Äscherne Verdikt|
 |Ring 2|Frostbrood Sapphire Ring||
 |Trinket 1|[Wille des Todesbringers](https://db.rising-gods.de/?item=50363)|Saurfang 25|
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
@@ -898,15 +898,15 @@ Rising-Gods BiS List (WIP)
 |Kopf|T10 Kopf|Händler|
 |Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Luftschlacht 25|
 |Schultern|T10 Schultern|Händler|
-|Rücken|Sylvana"s Cunning||
+|Rücken|[Sylvanas' List](https://db.rising-gods.de/?item=47546)|PDOK 25 Tribute|
 |Brust|T10 Brust|Händler|
 |Handgelenke|[Schattenarmbänder](https://db.rising-gods.de/?item=54580)|Halion 25|
-|Handgelenke (Alt)|[Toskks maximierte Handgelenksschützer](https://db.rising-gods.de/?item=50670)|Saurfang 25||
+|Handgelenke (Alt)|[Toskks maximierte Handgelenksschützer](https://db.rising-gods.de/?item=50670)|Saurfang 25|
 |Hände|T10 Hände|Händler|
 |Taille|[Verbund des Eisigen Gespenstes](https://db.rising-gods.de/?item=50620)|Valithria Traumwandler 25|
 |Beine|Leggings of Northern Lights||
 |Füße|[Vormarsch der Apokalypse](https://db.rising-gods.de/?item=54578)|Halion 25|
-|Ring 1|Ashen Band of Endless Vengeance||
+|Ring 1|[Äschernes Band der endlosen Rache](https://db.rising-gods.de/?item=50402)|Das Äscherne Verdikt|
 |Ring 2|Frostbrood Sapphire Ring||
 |Trinket 1|[Wille des Todesbringers](https://db.rising-gods.de/?item=50363)|Saurfang 25|
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
