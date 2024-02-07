@@ -45,8 +45,8 @@ Rising-Gods BiS List (WIP)
 |Ring 2|[Macht der Seuche](https://db.rising-gods.de/?item=50693)||
 |Trinket 1|[Wille des Todesbringers](https://db.rising-gods.de/?item=50363)|Saurfang 25|
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
-|Waffe|[Chaosruf, Klinge der Könige von Lordaeron(]https://db.rising-gods.de/?item=50737)|Lich King 25|
-|Offhand/Schild|[Chaosruf, Klinge der Könige von Lordaeron(]https://db.rising-gods.de/?item=50737)|Lich King 25|
+|Waffe|[Chaosruf, Klinge der Könige von Lordaeron](https://db.rising-gods.de/?item=50737)|Lich King 25|
+|Offhand/Schild|[Chaosruf, Klinge der Könige von Lordaeron](https://db.rising-gods.de/?item=50737)|Lich King 25|
 |Relikt/Fernkampf|[Siegel des Bewusstseins](https://db.rising-gods.de/?item=40207)|Heigan der Unreine (Naxx) 25|
 
 ## Frost Str
@@ -67,8 +67,8 @@ Rising-Gods BiS List (WIP)
 |Ring 2|[Macht der Seuche](https://db.rising-gods.de/?item=50693)||
 |Trinket 1|[Wille des Todesbringers](https://db.rising-gods.de/?item=50363)|Saurfang 25|
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
-|Waffe|[Chaosruf, Klinge der Könige von Lordaeron(]https://db.rising-gods.de/?item=50737)|Lich King 25|
-|Offhand/Schild|[Chaosruf, Klinge der Könige von Lordaeron(]https://db.rising-gods.de/?item=50737)|Lich King 25|
+|Waffe|[Chaosruf, Klinge der Könige von Lordaeron](https://db.rising-gods.de/?item=50737)|Lich King 25|
+|Offhand/Schild|[Chaosruf, Klinge der Könige von Lordaeron](https://db.rising-gods.de/?item=50737)|Lich King 25|
 |Relikt/Fernkampf|[Siegel des Gehengten](https://db.rising-gods.de/?item=50459)|Händler|
 
 ## Unholy
@@ -134,7 +134,7 @@ Rising-Gods BiS List (WIP)
 |Ring 1|[Deviums ewigkalter Ring](https://db.rising-gods.de/?item=50622)|Valithria Traumwandler 25|
 |Ring 2|[Signifikanter Ring der Bindung](https://db.rising-gods.de/?item=49489)|Onyxia 25|
 |Trinket 1|[Sindragosas makelloser Fangzahn](https://db.rising-gods.de/?item=50364)|Sindragosa 25|
-|Trinket 2|[Korrodierter Skelettschlüssel]([https://db.rising-gods.de/?item=47451](https://db.rising-gods.de/?item=50356))|Händler|
+|Trinket 2|[Korrodierter Skelettschlüssel](https://db.rising-gods.de/?item=50356)|Händler|
 |Waffe|[Gruftmacher](https://db.rising-gods.de/?item=50603)|Rat der Blutprinzen 25|
 |Waffe (Alt)|[Bryntroll, der Knochenrächer](https://db.rising-gods.de/?item=50709)|Lord Mark'gar 25|
 |Offhand/Schild|-||
@@ -157,7 +157,7 @@ Rising-Gods BiS List (WIP)
 |Ring 1|[Deviums ewigkalter Ring](https://db.rising-gods.de/?item=50622)|Valithria Traumwandler 25|
 |Ring 2|[Signifikanter Ring der Bindung](https://db.rising-gods.de/?item=49489)|Onyxia 25|
 |Trinket 1|[Sindragosas makelloser Fangzahn](https://db.rising-gods.de/?item=50364)|Sindragosa 25|
-|Trinket 2|[Korrodierter Skelettschlüssel]([https://db.rising-gods.de/?item=47451](https://db.rising-gods.de/?item=50356))|Händler|
+|Trinket 2|[Korrodierter Skelettschlüssel](https://db.rising-gods.de/?item=50356)|Händler|
 |Waffe|[Glorenzelg, die Hohe Klinge der Silbernen Hand](https://db.rising-gods.de/?item=50730)|Lich King 25|
 |Offhand/Schild|-||
 |Relikt/Fernkampf|[Siegel der Anmaßung](https://db.rising-gods.de/?item=47672)|Händler|
@@ -227,7 +227,7 @@ Rising-Gods BiS List (WIP)
 |Ring 1 (Alt)|Signet of Twilight||
 |Ring 2|[Deviums ewigkalter Ring](https://db.rising-gods.de/?item=50622)|Valithria Traumwandler 25|
 |Trinket 1|[Sindragosas makelloser Fangzahn](https://db.rising-gods.de/?item=50364)|Sindragosa 25|
-|Trinket 2|[Korrodierter Skelettschlüssel]([https://db.rising-gods.de/?item=47451](https://db.rising-gods.de/?item=50356))|Händler|
+|Trinket 2|[Korrodierter Skelettschlüssel](https://db.rising-gods.de/?item=50356)|Händler|
 |Waffe|[Gruftmacher](https://db.rising-gods.de/?item=50603)|Rat der Blutprinzen 25|
 |Waffe (Alt)|Oathbinder, Charge of the Ranger-General||
 |Waffe (Alt)|Wrathful Gladiator"s Halberd||
@@ -445,7 +445,7 @@ Rising-Gods BiS List (WIP)
 |Ring 2|[Signifikanter Ring der Bindung](https://db.rising-gods.de/?item=49489)|Onyxia 25|
 |Trinket 1|[Sindragosas makelloser Fangzahn](https://db.rising-gods.de/?item=50364)|Sindragosa 25|
 |Trinket 2|Petrified Twilight Scale||
-|Trinket 2 (Alt)|[Korrodierter Skelettschlüssel]([https://db.rising-gods.de/?item=47451](https://db.rising-gods.de/?item=50356))|Händler|
+|Trinket 2 (Alt)|[Korrodierter Skelettschlüssel](https://db.rising-gods.de/?item=50356)|Händler|
 |Waffe|Bloodvenom Blade||
 |Waffe (Alt)|Mithrios, Bronzebeard"s Legacy||
 |Offhand/Schild|Icecrown Glacial Wall||
@@ -633,7 +633,7 @@ Rising-Gods BiS List (WIP)
 |Ring 2|Frostbrood Sapphire Ring||
 |Trinket 1|[Wille des Todesbringers](https://db.rising-gods.de/?item=50363)|Saurfang 25|
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
-|Waffe|[Chaosruf, Klinge der Könige von Lordaeron(]https://db.rising-gods.de/?item=50737)|Lich King 25|
+|Waffe|[Chaosruf, Klinge der Könige von Lordaeron](https://db.rising-gods.de/?item=50737)|Lich King 25|
 |Offhand/Schild|Scourgeborne Waraxe||
 |Relikt/Fernkampf|Fal"inrush, Defender of Quel"thalas||
 
@@ -656,7 +656,7 @@ Rising-Gods BiS List (WIP)
 |Ring 2|Signet of Twilight||
 |Trinket 1|[Wille des Todesbringers](https://db.rising-gods.de/?item=50363)|Saurfang 25|
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
-|Waffe|[Chaosruf, Klinge der Könige von Lordaeron(]https://db.rising-gods.de/?item=50737)|Lich King 25|
+|Waffe|[Chaosruf, Klinge der Könige von Lordaeron](https://db.rising-gods.de/?item=50737)|Lich King 25|
 |Offhand/Schild|Scourgeborne Waraxe||
 |Relikt/Fernkampf|Fal"inrush, Defender of Quel"thalas||
 
@@ -772,8 +772,8 @@ Rising-Gods BiS List (WIP)
 |Ring 2|Signet of Twilight||
 |Trinket 1|[Wille des Todesbringers](https://db.rising-gods.de/?item=50363)|Saurfang 25|
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
-|Waffe|[Chaosruf, Klinge der Könige von Lordaeron(]https://db.rising-gods.de/?item=50737)|Lich King 25|
-|Offhand/Schild|[Chaosruf, Klinge der Könige von Lordaeron(]https://db.rising-gods.de/?item=50737)|Lich King 25|
+|Waffe|[Chaosruf, Klinge der Könige von Lordaeron](https://db.rising-gods.de/?item=50737)|Lich King 25|
+|Offhand/Schild|[Chaosruf, Klinge der Könige von Lordaeron](https://db.rising-gods.de/?item=50737)|Lich King 25|
 |Relikt/Fernkampf|Totem of the Avalanche||
 
 ## Enhancement Multi-Target
@@ -794,8 +794,8 @@ Rising-Gods BiS List (WIP)
 |Ring 2|Signet of Twilight||
 |Trinket 1|Herkuml War Token||
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
-|Waffe|[Chaosruf, Klinge der Könige von Lordaeron(]https://db.rising-gods.de/?item=50737)|Lich King 25|
-|Offhand/Schild|[Chaosruf, Klinge der Könige von Lordaeron(]https://db.rising-gods.de/?item=50737)|Lich King 25|
+|Waffe|[Chaosruf, Klinge der Könige von Lordaeron](https://db.rising-gods.de/?item=50737)|Lich King 25|
+|Offhand/Schild|[Chaosruf, Klinge der Könige von Lordaeron](https://db.rising-gods.de/?item=50737)|Lich King 25|
 |Relikt/Fernkampf|Bizuri"s Totem of Shattered Ice||
 
 # Warlock
