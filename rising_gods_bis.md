@@ -552,9 +552,9 @@ Rising-Gods BiS List (WIP)
 |Hals|[Purpurroter Halsreif der Blutkönigin](https://db.rising-gods.de/?item=50724)|Blutkönigin Lana'thel 25|
 |Schultern|T10 Schultern|Händler|
 |Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
-|Brust|T10 Brust (Shadow Set)|Händler|
+|Brust|T10 Brust|Händler|
 |Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
-|Hände|T10 Hände|Händler|
+|Hände|[Ritualistenhandschuhe der San'layn](https://db.rising-gods.de/?item=50722)|Rat der Blutprinzen 25|
 |Taille|Lingering Illness||
 |Beine|T10 Beine|Händler|
 |Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
@@ -577,9 +577,9 @@ Rising-Gods BiS List (WIP)
 |Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
 |Brust|T10 Brust|Händler|
 |Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
-|Hände|T10 Hände|Händler|
+|Hände|[Ritualistenhandschuhe der San'layn](https://db.rising-gods.de/?item=50722)|Rat der Blutprinzen 25|
 |Taille|Lingering Illness||
-|Beine|T10 Beine (Shadow)|Händler|
+|Beine|T10 Hände|Händler|
 |Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
 |Ring 1|Ring of Phased Regeneration||
 |Ring 2|Ring of Maddening Whispers||
@@ -594,7 +594,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|Bone Sentinel"s Amulet||
+|Hals|[Purpurroter Halsreif der Blutkönigin](https://db.rising-gods.de/?item=50724)|Blutkönigin Lana'thel 25|
 |Schultern|T10 Schultern|Händler|
 |Rücken|Greatcloak of the Turned Champion||
 |Brust|Sanguine Silk Robes||
