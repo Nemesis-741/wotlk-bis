@@ -9,12 +9,12 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Luftschlacht 25|
+|Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Halion 25|
 |Schultern|T10 Schultern|Händler|
 |Rücken|[Gewundenes Laken](https://db.rising-gods.de/?item=50677)|Modermiene 25|
 |Brust|T10 Brust|Händler|
 |Handgelenke|[Schattenarmbänder](https://db.rising-gods.de/?item=54580)|Halion 25|
-|Hände|T10 Hände|Händler|
+|Hände|T10 Hände ?|Händler|
 |Taille|[Verbund des Eisigen Gespenstes](https://db.rising-gods.de/?item=50620)|Valithria Traumwandler 25|
 |Beine|T10 Beine|Händler|
 |Füße|[Vormarsch der Apokalypse](https://db.rising-gods.de/?item=54578)|Halion 25|
@@ -32,7 +32,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Luftschlacht 25|
+|Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Halion 25|
 |Schultern|T10 Schultern|Händler|
 |Rücken|[Garroshs Wut](https://db.rising-gods.de/?item=47548)|PDOK 25 Tribute|
 |Brust|T10 Brust|Händler|
@@ -54,7 +54,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Luftschlacht 25|
+|Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Halion 25|
 |Schultern|T10 Schultern|Händler|
 |Rücken|[Gewundenes Laken](https://db.rising-gods.de/?item=50677)|Modermiene 25|
 |Brust|T10 Brust|Händler|
@@ -76,7 +76,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Luftschlacht 25|
+|Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Halion 25|
 |Schultern|T10 Schultern|Händler|
 |Rücken|[Gewundenes Laken](https://db.rising-gods.de/?item=50677)|Modermiene 25|
 |Brust|T10 Brust|Händler|
@@ -169,7 +169,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Luftschlacht 25|
+|Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Halion 25|
 |Schultern|T10 Schultern|Händler|
 |Rücken|[Sylvanas' List](https://db.rising-gods.de/?item=47546)|PDOK 25 Tribute|
 |Brust|T10 Brust|Händler|
@@ -251,9 +251,9 @@ Rising-Gods BiS List (WIP)
 |Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
 |Ring 2|[Ring des Schnellen Aufstiegs](https://db.rising-gods.de/?item=50664)|Luftschlacht 25|
 |Ring 2 (Alt)|[Valanars anderer Siegelring](https://db.rising-gods.de/?item=50714)|Rat der Blutprinzen 25|
-|Trinket 1|Phylactery of the Nameless Lich||
-|Trinket 2|Charred Twilight Scale||
-|Waffe|Royal Scepter of Terenas II||
+|Trinket 1|[Phylakterium des namenlosen Lichs](https://db.rising-gods.de/?item=50360)|Sindragosa 25|
+|Trinket 2|[Verkohlte Zwielichtschuppe](https://db.rising-gods.de/?item=54588)|Halion 25|
+|Waffe|[Königliches Szepter von Terenas II](https://db.rising-gods.de/?item=50734)|Lich King 25|
 |Offhand/Schild|Shadow Silk Spindle||
 |Relikt/Fernkampf|Idol of the Lunar Eclipse||
 
@@ -324,8 +324,8 @@ Rising-Gods BiS List (WIP)
 |Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
 |Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
 |Ring 2|[Ring des Schnellen Aufstiegs](https://db.rising-gods.de/?item=50664)|Luftschlacht 25|
-|Trinket 1|Phylactery of the Nameless Lich||
-|Trinket 2|Charred Twilight Scale||
+|Trinket 1|[Phylakterium des namenlosen Lichs](https://db.rising-gods.de/?item=50360)|Sindragosa 25|
+|Trinket 2|[Verkohlte Zwielichtschuppe](https://db.rising-gods.de/?item=54588)|Halion 25|
 |Waffe|Bloodsurge, Kel"Thuzad"s Blade of Agony||
 |Offhand/Schild|Shadow Silk Spindle||
 |Relikt/Fernkampf|Corpse Impaling Spike||
@@ -347,7 +347,7 @@ Rising-Gods BiS List (WIP)
 |Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
 |Ring 2|[Ring des Schnellen Aufstiegs](https://db.rising-gods.de/?item=50664)|Luftschlacht 25|
 |Trinket 1|Dislodged Foreign Object||
-|Trinket 2|Charred Twilight Scale||
+|Trinket 2|[Verkohlte Zwielichtschuppe](https://db.rising-gods.de/?item=54588)|Halion 25|
 |Waffe|Bloodsurge, Kel"Thuzad"s Blade of Agony||
 |Offhand/Schild|Shadow Silk Spindle||
 |Relikt/Fernkampf|Corpse Impaling Spike||
@@ -374,7 +374,7 @@ Rising-Gods BiS List (WIP)
 |Trinket 1|Glowing Twilight Scale||
 |Trinket 2|Meteorite Crystal||
 |Trinket 2 (Alt)|Talisman of Resurgence||
-|Waffe|Royal Scepter of Terenas II||
+|Waffe|[Königliches Szepter von Terenas II](https://db.rising-gods.de/?item=50734)|Lich King 25|
 |Waffe (Alt)|Bloodsurge, Kel"Thuzad"s Blade of Agony||
 |Offhand/Schild|Bulwark of Smouldering Steel||
 |Relikt/Fernkampf|Libram of Renewal||
@@ -384,7 +384,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Luftschlacht 25|
+|Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Halion 25|
 |Schultern|T10 Schultern|Händler|
 |Rücken|[Schlächterumhang des Schattengewölbes](https://db.rising-gods.de/?item=50653)|Luftschlacht 25|
 |Brust|T10 Brust|Händler|
@@ -408,7 +408,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Luftschlacht 25|
+|Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Halion 25|
 |Schultern|T10 Schultern|Händler|
 |Rücken|[Gewundenes Laken](https://db.rising-gods.de/?item=50677)|Modermiene 25|
 |Brust|T10 Brust|Händler|
@@ -516,9 +516,9 @@ Rising-Gods BiS List (WIP)
 |Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
 |Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
 |Ring 2|[Ring des Schnellen Aufstiegs](https://db.rising-gods.de/?item=50664)|Luftschlacht 25|
-|Trinket 1|Phylactery of the Nameless Lich||
-|Trinket 2|Charred Twilight Scale||
-|Waffe|Royal Scepter of Terenas II||
+|Trinket 1|[Phylakterium des namenlosen Lichs](https://db.rising-gods.de/?item=50360)|Sindragosa 25|
+|Trinket 2|[Verkohlte Zwielichtschuppe](https://db.rising-gods.de/?item=54588)|Halion 25|
+|Waffe|[Königliches Szepter von Terenas II](https://db.rising-gods.de/?item=50734)|Lich King 25|
 |Offhand/Schild|Shadow Silk Spindle||
 |Relikt/Fernkampf|Corpse Impaling Spike||
 
@@ -538,9 +538,9 @@ Rising-Gods BiS List (WIP)
 |Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
 |Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
 |Ring 2|Loop of the Endless Labyrinth||
-|Trinket 1|Phylactery of the Nameless Lich||
-|Trinket 2|Charred Twilight Scale||
-|Waffe|Royal Scepter of Terenas II||
+|Trinket 1|[Phylakterium des namenlosen Lichs](https://db.rising-gods.de/?item=50360)|Sindragosa 25|
+|Trinket 2|[Verkohlte Zwielichtschuppe](https://db.rising-gods.de/?item=54588)|Halion 25|
+|Waffe|[Königliches Szepter von Terenas II](https://db.rising-gods.de/?item=50734)|Lich King 25|
 |Offhand/Schild|Shadow Silk Spindle||
 |Relikt/Fernkampf|Corpse Impaling Spike||
 
@@ -563,7 +563,7 @@ Rising-Gods BiS List (WIP)
 |Trinket 1|Glowing Twilight Scale||
 |Trinket 2|Althor"s Abacus||
 |Trinket 2 (Alt)|Solace of the Fallen||
-|Waffe|Royal Scepter of Terenas II||
+|Waffe|[Königliches Szepter von Terenas II](https://db.rising-gods.de/?item=50734)|Lich King 25|
 |Offhand/Schild|Shadow Silk Spindle||
 |Relikt/Fernkampf|Corpse Impaling Spike||
 
@@ -585,7 +585,7 @@ Rising-Gods BiS List (WIP)
 |Ring 2|Ring of Maddening Whispers||
 |Trinket 1|Glowing Twilight Scale||
 |Trinket 2|Althor"s Abacus||
-|Waffe|Royal Scepter of Terenas II||
+|Waffe|[Königliches Szepter von Terenas II](https://db.rising-gods.de/?item=50734)|Lich King 25|
 |Offhand/Schild|Shadow Silk Spindle||
 |Relikt/Fernkampf|Nightmare Ender||
 
@@ -608,7 +608,7 @@ Rising-Gods BiS List (WIP)
 |Trinket 1|Glowing Twilight Scale||
 |Trinket 2|Althor"s Abacus||
 |Waffe|Val"anyr, Hammer of Ancient Kings||
-|Waffe (Alt)|Royal Scepter of Terenas II||
+|Waffe (Alt)|[Königliches Szepter von Terenas II](https://db.rising-gods.de/?item=50734)|Lich King 25|
 |Offhand/Schild|Sundial of Eternal Dusk||
 |Relikt/Fernkampf|Corpse Impaling Spike||
 
@@ -700,9 +700,9 @@ Rising-Gods BiS List (WIP)
 |Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
 |Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
 |Ring 2|Loop of the Endless Labyrinth||
-|Trinket 1|Phylactery of the Nameless Lich||
-|Trinket 2|Charred Twilight Scale||
-|Waffe|Royal Scepter of Terenas II||
+|Trinket 1|[Phylakterium des namenlosen Lichs](https://db.rising-gods.de/?item=50360)|Sindragosa 25|
+|Trinket 2|[Verkohlte Zwielichtschuppe](https://db.rising-gods.de/?item=54588)|Halion 25|
+|Waffe|[Königliches Szepter von Terenas II](https://db.rising-gods.de/?item=50734)|Lich King 25|
 |Offhand/Schild|Bulwark of Smouldering Steel||
 |Relikt/Fernkampf|Bizuri"s Totem of Shattered Ice||
 |Relikt/Fernkampf (Alt)|Totem of Hex||
@@ -723,9 +723,9 @@ Rising-Gods BiS List (WIP)
 |Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
 |Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
 |Ring 2|[Valanars anderer Siegelring](https://db.rising-gods.de/?item=50714)|Rat der Blutprinzen 25|
-|Trinket 1|Phylactery of the Nameless Lich||
-|Trinket 2|Charred Twilight Scale||
-|Waffe|Royal Scepter of Terenas II||
+|Trinket 1|[Phylakterium des namenlosen Lichs](https://db.rising-gods.de/?item=50360)|Sindragosa 25|
+|Trinket 2|[Verkohlte Zwielichtschuppe](https://db.rising-gods.de/?item=54588)|Halion 25|
+|Waffe|[Königliches Szepter von Terenas II](https://db.rising-gods.de/?item=50734)|Lich King 25|
 |Offhand/Schild|Bulwark of Smouldering Steel||
 |Relikt/Fernkampf|Bizuri"s Totem of Shattered Ice||
 
@@ -749,7 +749,7 @@ Rising-Gods BiS List (WIP)
 |Ring 2|[Ring des Schnellen Aufstiegs](https://db.rising-gods.de/?item=50664)|Luftschlacht 25|
 |Trinket 1|Glowing Twilight Scale||
 |Trinket 2|Solace of the Fallen||
-|Waffe|Royal Scepter of Terenas II||
+|Waffe|[Königliches Szepter von Terenas II](https://db.rising-gods.de/?item=50734)|Lich King 25|
 |Offhand/Schild|Bulwark of Smouldering Steel||
 |Relikt/Fernkampf|Totem of Calming Tides||
 |Relikt/Fernkampf (Alt)|Bizuri"s Totem of Shattered Ice||
@@ -816,8 +816,8 @@ Rising-Gods BiS List (WIP)
 |Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
 |Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
 |Ring 2|[Valanars anderer Siegelring](https://db.rising-gods.de/?item=50714)|Rat der Blutprinzen 25|
-|Trinket 1|Phylactery of the Nameless Lich||
-|Trinket 2|Charred Twilight Scale||
+|Trinket 1|[Phylakterium des namenlosen Lichs](https://db.rising-gods.de/?item=50360)|Sindragosa 25|
+|Trinket 2|[Verkohlte Zwielichtschuppe](https://db.rising-gods.de/?item=54588)|Halion 25|
 |Waffe|Bloodsurge, Kel"Thuzad"s Blade of Agony||
 |Offhand/Schild|Shadow Silk Spindle||
 |Relikt/Fernkampf|Corpse Impaling Spike||
@@ -838,8 +838,8 @@ Rising-Gods BiS List (WIP)
 |Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
 |Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
 |Ring 2|[Valanars anderer Siegelring](https://db.rising-gods.de/?item=50714)|Rat der Blutprinzen 25|
-|Trinket 1|Phylactery of the Nameless Lich||
-|Trinket 2|Charred Twilight Scale||
+|Trinket 1|[Phylakterium des namenlosen Lichs](https://db.rising-gods.de/?item=50360)|Sindragosa 25|
+|Trinket 2|[Verkohlte Zwielichtschuppe](https://db.rising-gods.de/?item=54588)|Halion 25|
 |Waffe|Bloodsurge, Kel"Thuzad"s Blade of Agony||
 |Offhand/Schild|Shadow Silk Spindle||
 |Relikt/Fernkampf|Corpse Impaling Spike||
@@ -861,7 +861,7 @@ Rising-Gods BiS List (WIP)
 |Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
 |Ring 2|[Ring des Schnellen Aufstiegs](https://db.rising-gods.de/?item=50664)|Luftschlacht 25|
 |Trinket 1|Dislodged Foreign Object||
-|Trinket 2|Charred Twilight Scale||
+|Trinket 2|[Verkohlte Zwielichtschuppe](https://db.rising-gods.de/?item=54588)|Halion 25|
 |Waffe|Bloodsurge, Kel"Thuzad"s Blade of Agony||
 |Offhand/Schild|Shadow Silk Spindle||
 |Relikt/Fernkampf|Corpse Impaling Spike||
@@ -873,7 +873,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Luftschlacht 25|
+|Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Halion 25|
 |Schultern|T10 Schultern|Händler|
 |Rücken|[Sylvanas' List](https://db.rising-gods.de/?item=47546)|PDOK 25 Tribute|
 |Brust|T10 Brust|Händler|
@@ -896,7 +896,7 @@ Rising-Gods BiS List (WIP)
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Luftschlacht 25|
+|Hals|[Penumbraanhänger](https://db.rising-gods.de/?item=54581)|Halion 25|
 |Schultern|T10 Schultern|Händler|
 |Rücken|[Sylvanas' List](https://db.rising-gods.de/?item=47546)|PDOK 25 Tribute|
 |Brust|T10 Brust|Händler|
