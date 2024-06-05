@@ -227,7 +227,8 @@ Rising-Gods BiS List (WIP)
 |Ring 1 (Alt)|[Siegel des Zwielichts](https://db.rising-gods.de/?item=54576)|Halion 25|
 |Ring 2|[Deviums ewigkalter Ring](https://db.rising-gods.de/?item=50622)|Valithria Traumwandler 25|
 |Trinket 1|[Sindragosas makelloser Fangzahn](https://db.rising-gods.de/?item=50364)|Sindragosa 25|
-|Trinket 2|[Korrodierter Skelettschlüssel](https://db.rising-gods.de/?item=50356)|Händler|
+|Trinket 2|[Unidentifizierbares Organ](https://db.rising-gods.de/?item=50344))|Professor Seuchenmord 10|
+|Trinket (Alt)|[Korrodierter Skelettschlüssel](https://db.rising-gods.de/?item=50356)|Händler|
 |Waffe|[Gruftmacher](https://db.rising-gods.de/?item=50603)|Rat der Blutprinzen 25|
 |Waffe (Alt)|[Schwurbinder, Kraft des Waldläufergenerals](https://db.rising-gods.de/?item=50425)|Lich King 25|
 |Waffe (Alt)|[Hellebarde des zornerfüllten Gladiators](https://db.rising-gods.de/?item=51481)|Arena Belohnung|
@@ -363,22 +364,22 @@ Rising-Gods BiS List (WIP)
 |Hals|[Purpurroter Halsreif der Blutkönigin](https://db.rising-gods.de/?item=50724)|Blutkönigin Lana'thel 25|
 |Schultern|T10 Schultern|Händler|
 |Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
-|Brust|Rot-Resistant Breastplate||
+|Brust|[Moderresistente Brustplatte](https://db.rising-gods.de/?item=50680)|Modermiene 25|
 |Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
-|Handgelenke (Alt)|Phaseshifter"s Bracers||
-|Hände|Fallen Lord"s Handguards||
-|Taille|Split Shape Belt||
+|Handgelenke (Alt)|[Armschienen des Phasenwandlers](https://db.rising-gods.de/?item=54584)|Halion 25|
+|Hände|[Handschützer des gefallenen Lords](https://db.rising-gods.de/?item=50650)|Lady Todeswisper 25|
+|Taille|[Gürtel der gespaltenen Form](https://db.rising-gods.de/?item=54587)|Halion 25|
 |Beine|[Befleckte Hose des Seuchenfürsten](https://db.rising-gods.de/?item=50694)|Fauldarm 25|
-|Füße|Foreshadow Steps||
+|Füße|[Schritte der Vorahnung](https://db.rising-gods.de/?item=54586)|Halion 25|
 |Ring 1|[Ring der phasenweisen Regeneration](https://db.rising-gods.de/?item=54585)|Halion 25|
 |Ring 2|[Ring des Schnellen Aufstiegs](https://db.rising-gods.de/?item=50664)|Luftschlacht 25|
 |Trinket 1|[Leuchtende Zwielichtschuppe](https://db.rising-gods.de/?item=54589)|Halion 25|
-|Trinket 2|Meteorite Crystal||
-|Trinket 2 (Alt)|Talisman of Resurgence||
+|Trinket 2|[Meteoritkristall](https://db.rising-gods.de/?item=46051)|Algalon der Beobachter (Ulduar)|
+|Trinket 2 (Alt)|[Talisman der Wiederauferstehung](https://db.rising-gods.de/?item=48724)|Händler|
 |Waffe|[Königliches Szepter von Terenas II](https://db.rising-gods.de/?item=50734)|Lich King 25|
 |Waffe (Alt)|[Blutschäumer, Kel'Thuzads Klinge der Pein](https://db.rising-gods.de/?item=50732)|Lich King 25|
-|Offhand/Schild|Bulwark of Smouldering Steel||
-|Relikt/Fernkampf|Libram of Renewal||
+|Offhand/Schild|[Bollwerk des schwelenden Stahls](https://db.rising-gods.de/?item=50616)|Lord Mark'gar 25|
+|Relikt/Fernkampf|[Buchband der Erneuerung](https://db.rising-gods.de/?item=40705)|Händler|
 
 ## Ret Agility
 
@@ -390,19 +391,18 @@ Rising-Gods BiS List (WIP)
 |Rücken|[Schlächterumhang des Schattengewölbes](https://db.rising-gods.de/?item=50653)|Luftschlacht 25|
 |Brust|T10 Brust|Händler|
 |Handgelenke|[Schattenarmbänder](https://db.rising-gods.de/?item=54580)|Halion 25|
-|Hände|Anub"ar Stalker"s Gloves||
+|Hände|[Handschuhe des Anub'arpirschers](https://db.rising-gods.de/?item=50619)|Valithria Traumwandler 25|
 |Taille|[Astrylians Vernähter Gurt](https://db.rising-gods.de/?item=50707)|Professor Seuchenmord 25|
 |Beine|T10 Beine|Händler|
 |Füße|[Vormarsch der Apokalypse](https://db.rising-gods.de/?item=54578)|Halion 25|
 |Ring 1|[Äschernes Band der endlosen Rache](https://db.rising-gods.de/?item=50402)|Das Äscherne Verdikt|
 |Ring 2|[Siegel des Zwielichts](https://db.rising-gods.de/?item=54576)|Halion 25|
 |Trinket 1|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
-|Trinket 2|Tiny Abomination in a Jar||
+|Trinket 2|[Winzige Monstrosität im Glas](https://db.rising-gods.de/?item=50706)|Professor Seuchenmord 25|
 |Waffe|[Schatengram](https://db.rising-gods.de/?item=49623)
 |Waffe (Alt)|[Schwurbinder, Kraft des Waldläufergenerals](https://db.rising-gods.de/?item=50425)|Lich King 25|
 |Offhand/Schild|-||
-|Relikt/Fernkampf|Libram of Valiance||
-|Relikt/Fernkampf (Alt)|Libram of Three Truths||
+|Relikt/Fernkampf|[Buchband der drei Wahrheiten](https://db.rising-gods.de/?item=50455)|Händler|
 
 ## Ret Strength (Aoe)
 
@@ -421,12 +421,11 @@ Rising-Gods BiS List (WIP)
 |Ring 1|[Äschernes Band der endlosen Macht](https://db.rising-gods.de/?item=52572)|Das Äscherne Verdikt|
 |Ring 2|[Siegel des Zwielichts](https://db.rising-gods.de/?item=54576)|Halion 25|
 |Trinket 1|Death"s Choice||
-|Trinket 2|Tiny Abomination in a Jar||
+|Trinket 2|[Winzige Monstrosität im Glas](https://db.rising-gods.de/?item=50706)|Professor Seuchenmord 25|
 |Waffe|[Schatengram](https://db.rising-gods.de/?item=49623)
 |Waffe (Alt)|[Glorenzelg, die Hohe Klinge der Silbernen Hand](https://db.rising-gods.de/?item=50730)|Lich King 25|
 |Offhand/Schild|-||
-|Relikt/Fernkampf|Libram of Valiance||
-|Relikt/Fernkampf (Alt)|Libram of Three Truths||
+|Relikt/Fernkampf|[Buchband der drei Wahrheiten](https://db.rising-gods.de/?item=50455)|Händler|
 
 ## Prot
 
@@ -451,7 +450,7 @@ Rising-Gods BiS List (WIP)
 |Waffe (Alt)|Mithrios, Bronzebeard"s Legacy||
 |Offhand/Schild|Icecrown Glacial Wall||
 |Relikt/Fernkampf|Libram of Sacred Schild||
-|Relikt/Fernkampf (Alt)|Libram of Valiance||
+|Relikt/Fernkampf (Alt)|[Buchband der drei Wahrheiten](https://db.rising-gods.de/?item=50455)|Händler|
 |Relikt/Fernkampf (Alt)|Libram of Eternal Tower||
 
 ## Prot (Armor)
@@ -677,7 +676,7 @@ Rising-Gods BiS List (WIP)
 |Füße|[Gefrorene Pelzstiefel](https://db.rising-gods.de/?item=50607)|Lord Mark'gar 25|
 |Ring 1|[Äschernes Band der endlosen Rache](https://db.rising-gods.de/?item=50402)|Das Äscherne Verdikt|
 |Ring 2|[Siegel des Zwielichts](https://db.rising-gods.de/?item=54576)|Halion 25|
-|Trinket 1|Tiny Abomination in a Jar||
+|Trinket 1|[Winzige Monstrosität im Glas](https://db.rising-gods.de/?item=50706)|Professor Seuchenmord 25|
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Waffe|Heaven"s Fall, Kryss of a Thousand Lies||
 |Offhand/Schild|Lungbreaker||
@@ -696,7 +695,7 @@ Rising-Gods BiS List (WIP)
 |Brust|T10 Brust|Händler|
 |Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
 |Hände|T10 Hände|Händler|
-|Taille|Split Shape Belt||
+|Taille|[Gürtel der gespaltenen Form](https://db.rising-gods.de/?item=54587)|Halion 25|
 |Beine|T10 Beine|Händler|
 |Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
 |Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
@@ -704,7 +703,7 @@ Rising-Gods BiS List (WIP)
 |Trinket 1|[Phylakterium des namenlosen Lichs](https://db.rising-gods.de/?item=50360)|Sindragosa 25|
 |Trinket 2|[Verkohlte Zwielichtschuppe](https://db.rising-gods.de/?item=54588)|Halion 25|
 |Waffe|[Königliches Szepter von Terenas II](https://db.rising-gods.de/?item=50734)|Lich King 25|
-|Offhand/Schild|Bulwark of Smouldering Steel||
+|Offhand/Schild|[Bollwerk des schwelenden Stahls](https://db.rising-gods.de/?item=50616)|Lord Mark'gar 25|
 |Relikt/Fernkampf|Bizuri"s Totem of Shattered Ice||
 |Relikt/Fernkampf (Alt)|Totem of Hex||
 
@@ -719,7 +718,7 @@ Rising-Gods BiS List (WIP)
 |Brust|T10 Brust|Händler|
 |Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
 |Hände|T10 Hände|Händler|
-|Taille|Split Shape Belt||
+|Taille|[Gürtel der gespaltenen Form](https://db.rising-gods.de/?item=54587)|Halion 25|
 |Beine|[Befleckte Hose des Seuchenfürsten](https://db.rising-gods.de/?item=50694)|Fauldarm 25|
 |Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
 |Ring 1|[Äschernes Band der endlosen Zerstörung](https://db.rising-gods.de/?item=50398)|Das Äscherne Verdikt|
@@ -727,7 +726,7 @@ Rising-Gods BiS List (WIP)
 |Trinket 1|[Phylakterium des namenlosen Lichs](https://db.rising-gods.de/?item=50360)|Sindragosa 25|
 |Trinket 2|[Verkohlte Zwielichtschuppe](https://db.rising-gods.de/?item=54588)|Halion 25|
 |Waffe|[Königliches Szepter von Terenas II](https://db.rising-gods.de/?item=50734)|Lich King 25|
-|Offhand/Schild|Bulwark of Smouldering Steel||
+|Offhand/Schild|[Bollwerk des schwelenden Stahls](https://db.rising-gods.de/?item=50616)|Lord Mark'gar 25|
 |Relikt/Fernkampf|Bizuri"s Totem of Shattered Ice||
 
 ## Restoration
@@ -743,7 +742,7 @@ Rising-Gods BiS List (WIP)
 |Handgelenke (Alt)|Phaseshifter"s Bracers||
 |Hände|Changeling Gloves||
 |Hände (Alt)|Unclean Surgical Gloves||
-|Taille|Split Shape Belt||
+|Taille|[Gürtel der gespaltenen Form](https://db.rising-gods.de/?item=54587)|Halion 25|
 |Beine|T10 Beine|Händler|
 |Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
 |Ring 1|[Ring der phasenweisen Regeneration](https://db.rising-gods.de/?item=54585)|Halion 25|
@@ -751,7 +750,7 @@ Rising-Gods BiS List (WIP)
 |Trinket 1|[Leuchtende Zwielichtschuppe](https://db.rising-gods.de/?item=54589)|Halion 25|
 |Trinket 2|Solace of the Fallen||
 |Waffe|[Königliches Szepter von Terenas II](https://db.rising-gods.de/?item=50734)|Lich King 25|
-|Offhand/Schild|Bulwark of Smouldering Steel||
+|Offhand/Schild|[Bollwerk des schwelenden Stahls](https://db.rising-gods.de/?item=50616)|Lord Mark'gar 25|
 |Relikt/Fernkampf|Totem of Calming Tides||
 |Relikt/Fernkampf (Alt)|Bizuri"s Totem of Shattered Ice||
 
@@ -765,7 +764,7 @@ Rising-Gods BiS List (WIP)
 |Rücken|[Schlächterumhang des Schattengewölbes](https://db.rising-gods.de/?item=50653)|Luftschlacht 25|
 |Brust|T10 Brust|Händler|
 |Handgelenke|[Unterarmschienen des Geißeljägers](https://db.rising-gods.de/?item=50655)|Luftschlacht 25|
-|Hände|Anub"ar Stalker"s Gloves||
+|Hände|[Handschuhe des Anub'arpirschers](https://db.rising-gods.de/?item=50619)|Valithria Traumwandler 25|
 |Taille|[Kordel des Nerub'arhäschers](https://db.rising-gods.de/?item=50688)|Fauldarm 25|
 |Beine|T10 Beine|Händler|
 |Füße|[Wiederkehrende Schritte](https://db.rising-gods.de/?item=54577)|Halion 25|
@@ -787,7 +786,7 @@ Rising-Gods BiS List (WIP)
 |Rücken|[Schlächterumhang des Schattengewölbes](https://db.rising-gods.de/?item=50653)|Luftschlacht 25|
 |Brust|T10 Brust|Händler|
 |Handgelenke|[Schattenarmbänder](https://db.rising-gods.de/?item=54580)|Halion 25|
-|Hände|Anub"ar Stalker"s Gloves||
+|Hände|[Handschuhe des Anub'arpirschers](https://db.rising-gods.de/?item=50619)|Valithria Traumwandler 25|
 |Taille|[Kordel des Nerub'arhäschers](https://db.rising-gods.de/?item=50688)|Fauldarm 25|
 |Beine|T10 Beine|Händler|
 |Füße|[Wiederkehrende Schritte](https://db.rising-gods.de/?item=54577)|Halion 25|
