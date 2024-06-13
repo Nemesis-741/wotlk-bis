@@ -420,7 +420,7 @@ Rising-Gods BiS List (WIP)
 |Füße|[Vormarsch der Apokalypse](https://db.rising-gods.de/?item=54578)|Halion 25|
 |Ring 1|[Äschernes Band der endlosen Macht](https://db.rising-gods.de/?item=52572)|Das Äscherne Verdikt|
 |Ring 2|[Siegel des Zwielichts](https://db.rising-gods.de/?item=54576)|Halion 25|
-|Trinket 1|Death"s Choice||
+|Trinket 1|[Des Todes Wahl](https://db.rising-gods.de/?item=47464)|Fiola Lichtbann (PDOK 25)|
 |Trinket 2|[Winzige Monstrosität im Glas](https://db.rising-gods.de/?item=50706)|Professor Seuchenmord 25|
 |Waffe|[Schatengram](https://db.rising-gods.de/?item=49623)
 |Waffe (Alt)|[Glorenzelg, die Hohe Klinge der Silbernen Hand](https://db.rising-gods.de/?item=50730)|Lich King 25|
@@ -444,11 +444,11 @@ Rising-Gods BiS List (WIP)
 |Ring 1|[Deviums ewigkalter Ring](https://db.rising-gods.de/?item=50622)|Valithria Traumwandler 25|
 |Ring 2|[Signifikanter Ring der Bindung](https://db.rising-gods.de/?item=49489)|Onyxia 25|
 |Trinket 1|[Sindragosas makelloser Fangzahn](https://db.rising-gods.de/?item=50364)|Sindragosa 25|
-|Trinket 2|Petrified Twilight Scale||
+|Trinket 2|[Versteinerte Zwielichtschuppe](https://db.rising-gods.de/?item=54591)|Halion 25|
 |Trinket 2 (Alt)|[Korrodierter Skelettschlüssel](https://db.rising-gods.de/?item=50356)|Händler|
-|Waffe|Bloodvenom Blade||
-|Waffe (Alt)|Mithrios, Bronzebeard"s Legacy||
-|Offhand/Schild|Icecrown Glacial Wall||
+|Waffe|[Blutgiftklinge](https://db.rising-gods.de/?item=50672)|Saurfang 25|
+|Waffe (Alt)|[Mithrios, Bronzebarts Vermächtnis](https://db.rising-gods.de/?item=50738)|Lich King 25|
+|Offhand/Schild|[Gletscherwand aus Eiskrone](https://db.rising-gods.de/?item=50729)|Blutkönigin Lana'thel 25|
 |Relikt/Fernkampf|Libram of Sacred Schild||
 |Relikt/Fernkampf (Alt)|[Buchband der drei Wahrheiten](https://db.rising-gods.de/?item=50455)|Händler|
 |Relikt/Fernkampf (Alt)|Libram of Eternal Tower||
@@ -470,9 +470,9 @@ Rising-Gods BiS List (WIP)
 |Ring 1|[Deviums ewigkalter Ring](https://db.rising-gods.de/?item=50622)|Valithria Traumwandler 25|
 |Ring 2|[Signifikanter Ring der Bindung](https://db.rising-gods.de/?item=49489)|Onyxia 25|
 |Trinket 1|[Sindragosas makelloser Fangzahn](https://db.rising-gods.de/?item=50364)|Sindragosa 25|
-|Trinket 2|Petrified Twilight Scale||
-|Waffe|Mithrios, Bronzebeard"s Legacy||
-|Offhand/Schild|Icecrown Glacial Wall||
+|Trinket 2|[Versteinerte Zwielichtschuppe](https://db.rising-gods.de/?item=54591)|Halion 25|
+|Waffe|[Mithrios, Bronzebarts Vermächtnis](https://db.rising-gods.de/?item=50738)|Lich King 25|
+|Offhand/Schild|[Gletscherwand aus Eiskrone](https://db.rising-gods.de/?item=50729)|Blutkönigin Lana'thel 25|
 |Relikt/Fernkampf|Libram of Sacred Schild||
 
 ## Expertise Set
@@ -492,9 +492,9 @@ Rising-Gods BiS List (WIP)
 |Ring 1|[Deviums ewigkalter Ring](https://db.rising-gods.de/?item=50622)|Valithria Traumwandler 25|
 |Ring 2|[Signifikanter Ring der Bindung](https://db.rising-gods.de/?item=49489)|Onyxia 25|
 |Trinket 1|[Sindragosas makelloser Fangzahn](https://db.rising-gods.de/?item=50364)|Sindragosa 25|
-|Trinket 2|Petrified Twilight Scale||
-|Waffe|Mithrios, Bronzebeard"s Legacy||
-|Offhand/Schild|Icecrown Glacial Wall||
+|Trinket 2|[Versteinerte Zwielichtschuppe](https://db.rising-gods.de/?item=54591)|Halion 25|
+|Waffe|[Mithrios, Bronzebarts Vermächtnis](https://db.rising-gods.de/?item=50738)|Lich King 25|
+|Offhand/Schild|[Gletscherwand aus Eiskrone](https://db.rising-gods.de/?item=50729)|Blutkönigin Lana'thel 25|
 |Relikt/Fernkampf|Libram of Sacred Schild||
 |Relikt/Fernkampf (Alt)|Libram of Eternal Tower||
 
@@ -932,8 +932,8 @@ Rising-Gods BiS List (WIP)
 |Ring 1|[Deviums ewigkalter Ring](https://db.rising-gods.de/?item=50622)|Valithria Traumwandler 25|
 |Ring 2|[Signifikanter Ring der Bindung](https://db.rising-gods.de/?item=49489)|Onyxia 25|
 |Trinket 1|[Sindragosas makelloser Fangzahn](https://db.rising-gods.de/?item=50364)|Sindragosa 25|
-|Trinket 2|Petrified Twilight Scale||
-|Waffe|Bloodvenom Blade||
-|Waffe (Alt)|Mithrios, Bronzebeard"s Legacy||
-|Offhand/Schild|Icecrown Glacial Wall||
+|Trinket 2|[Versteinerte Zwielichtschuppe](https://db.rising-gods.de/?item=54591)|Halion 25|
+|Waffe|[Blutgiftklinge](https://db.rising-gods.de/?item=50672)|Saurfang 25|
+|Waffe (Alt)|[Mithrios, Bronzebarts Vermächtnis](https://db.rising-gods.de/?item=50738)|Lich King 25|
+|Offhand/Schild|[Gletscherwand aus Eiskrone](https://db.rising-gods.de/?item=50729)|Blutkönigin Lana'thel 25|
 |Relikt/Fernkampf|Valithria Dreamhunter"s Carbine||
