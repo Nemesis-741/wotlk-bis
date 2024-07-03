@@ -449,9 +449,9 @@ Rising-Gods BiS List (WIP)
 |Waffe|[Blutgiftklinge](https://db.rising-gods.de/?item=50672)|Saurfang 25|
 |Waffe (Alt)|[Mithrios, Bronzebarts Vermächtnis](https://db.rising-gods.de/?item=50738)|Lich King 25|
 |Offhand/Schild|[Gletscherwand aus Eiskrone](https://db.rising-gods.de/?item=50729)|Blutkönigin Lana'thel 25|
-|Relikt/Fernkampf|Libram of Sacred Schild||
+|Relikt/Fernkampf|[Buchband des geheiligten Schildes](https://db.rising-gods.de/?item=45145)|Händler|
 |Relikt/Fernkampf (Alt)|[Buchband der drei Wahrheiten](https://db.rising-gods.de/?item=50455)|Händler|
-|Relikt/Fernkampf (Alt)|Libram of Eternal Tower||
+|Relikt/Fernkampf (Alt)|[Buchband des ewigen Turmes](https://db.rising-gods.de/?item=50461)|Händler|
 
 ## Prot (Armor)
 
@@ -473,7 +473,7 @@ Rising-Gods BiS List (WIP)
 |Trinket 2|[Versteinerte Zwielichtschuppe](https://db.rising-gods.de/?item=54591)|Halion 25|
 |Waffe|[Mithrios, Bronzebarts Vermächtnis](https://db.rising-gods.de/?item=50738)|Lich King 25|
 |Offhand/Schild|[Gletscherwand aus Eiskrone](https://db.rising-gods.de/?item=50729)|Blutkönigin Lana'thel 25|
-|Relikt/Fernkampf|Libram of Sacred Schild||
+|Relikt/Fernkampf|[Buchband des geheiligten Schildes](https://db.rising-gods.de/?item=45145)|Händler|
 
 ## Expertise Set
 
@@ -495,8 +495,8 @@ Rising-Gods BiS List (WIP)
 |Trinket 2|[Versteinerte Zwielichtschuppe](https://db.rising-gods.de/?item=54591)|Halion 25|
 |Waffe|[Mithrios, Bronzebarts Vermächtnis](https://db.rising-gods.de/?item=50738)|Lich King 25|
 |Offhand/Schild|[Gletscherwand aus Eiskrone](https://db.rising-gods.de/?item=50729)|Blutkönigin Lana'thel 25|
-|Relikt/Fernkampf|Libram of Sacred Schild||
-|Relikt/Fernkampf (Alt)|Libram of Eternal Tower||
+|Relikt/Fernkampf|[Buchband des geheiligten Schildes](https://db.rising-gods.de/?item=45145)|Händler|
+|Relikt/Fernkampf (Alt)|[Buchband des ewigen Turmes](https://db.rising-gods.de/?item=50461)|Händler|
 
 # Priest
 
@@ -690,7 +690,7 @@ Rising-Gods BiS List (WIP)
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
 |Hals|[Purpurroter Halsreif der Blutkönigin](https://db.rising-gods.de/?item=50724)|Blutkönigin Lana'thel 25|
-|Schultern|[Schreckliche Fleischschulterklappen](Schreckliche Fleischschulterklappen)|Fauldarm 25|
+|Schultern|[Schreckliche Fleischschulterklappen](https://db.rising-gods.de/?item=50698)|Fauldarm 25|
 |Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
 |Brust|T10 Brust|Händler|
 |Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
@@ -738,10 +738,10 @@ Rising-Gods BiS List (WIP)
 |Schultern|T10 Schultern|Händler|
 |Rücken|[Umhang der brennenden Dämmerung](https://db.rising-gods.de/?item=54583)|Halion 25|
 |Brust|T10 Brust|Händler|
-|Handgelenke|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
-|Handgelenke (Alt)|Phaseshifter"s Bracers||
-|Hände|Changeling Gloves||
-|Hände (Alt)|Unclean Surgical Gloves||
+|Handgelenke|[Armschienen des Phasenwandlers](https://db.rising-gods.de/?item=54584)|Halion 25|
+|Handgelenke (Alt)|[Armschienen der feurigen Nacht](https://db.rising-gods.de/?item=54582)|Halion 25|
+|Hände|[Wechselbalghandschuhe](https://db.rising-gods.de/?item=54560)|Halion 10|
+|Hände (Alt)|[Unreine Chirurgenhandschuhe](https://db.rising-gods.de/?item=50703)|Fauldarm 25|
 |Taille|[Gürtel der gespaltenen Form](https://db.rising-gods.de/?item=54587)|Halion 25|
 |Beine|T10 Beine|Händler|
 |Füße|[Stiefel des Seuchenwissenschaftlers](https://db.rising-gods.de/?item=50699)|Fauldarm 25|
@@ -751,7 +751,7 @@ Rising-Gods BiS List (WIP)
 |Trinket 2|[Trost der Gefallenen](https://db.rising-gods.de/?item=47432)|Lord Jaraxxus (PDOK 25)|
 |Waffe|[Königliches Szepter von Terenas II](https://db.rising-gods.de/?item=50734)|Lich King 25|
 |Offhand/Schild|[Bollwerk des schwelenden Stahls](https://db.rising-gods.de/?item=50616)|Lord Mark'gar 25|
-|Relikt/Fernkampf|Totem of Calming Tides||
+|Relikt/Fernkampf|[Totem der beruhigenden Gezeiten](https://db.rising-gods.de/?item=47665)|Händler|
 |Relikt/Fernkampf (Alt)|[Bizuris Totem des zerschmetterten Eises](https://db.rising-gods.de/?item=50458)|Händler|
 
 ## Enhancement Single Target
@@ -774,14 +774,14 @@ Rising-Gods BiS List (WIP)
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Waffe|[Chaosruf, Klinge der Könige von Lordaeron](https://db.rising-gods.de/?item=50737)|Lich King 25|
 |Offhand/Schild|[Chaosruf, Klinge der Könige von Lordaeron](https://db.rising-gods.de/?item=50737)|Lich King 25|
-|Relikt/Fernkampf|Totem of the Avalanche||
+|Relikt/Fernkampf|[Totem der Lawine](https://db.rising-gods.de/?item=50463)|Händler|
 
 ## Enhancement Multi-Target
 
 |Slot|Item|Source|
 | :--- | :--- | :--- |
 |Kopf|T10 Kopf|Händler|
-|Hals|Precious"s Putrid Collar||
+|Hals|[Schatz' eitriges Halsband](https://db.rising-gods.de/?item=51890)|Fauldarm 10|
 |Schultern|T10 Schultern|Händler|
 |Rücken|[Schlächterumhang des Schattengewölbes](https://db.rising-gods.de/?item=50653)|Luftschlacht 25|
 |Brust|T10 Brust|Händler|
@@ -792,7 +792,7 @@ Rising-Gods BiS List (WIP)
 |Füße|[Wiederkehrende Schritte](https://db.rising-gods.de/?item=54577)|Halion 25|
 |Ring 1|[Äschernes Band der endlosen Rache](https://db.rising-gods.de/?item=50402)|Das Äscherne Verdikt|
 |Ring 2|[Siegel des Zwielichts](https://db.rising-gods.de/?item=54576)|Halion 25|
-|Trinket 1|Herkuml War Token||
+|Trinket 1|[Herkumlkriegsabzeichen](https://db.rising-gods.de/?item=50355)|Händler|
 |Trinket 2|[Geschärfte Zwielichtschuppe](https://db.rising-gods.de/?item=54590)|Halion 25|
 |Waffe|[Chaosruf, Klinge der Könige von Lordaeron](https://db.rising-gods.de/?item=50737)|Lich King 25|
 |Offhand/Schild|[Chaosruf, Klinge der Könige von Lordaeron](https://db.rising-gods.de/?item=50737)|Lich King 25|
